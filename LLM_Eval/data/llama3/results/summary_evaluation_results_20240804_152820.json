@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "This place was a joke we rented 1 jet ski and brought it back with one scratch. I have been waiting over two weeks for him to tell us how much he's going to charge us why they have held our deposit. Hardly picks up Phone never calls back rarely is there.... Looked at all the good reviews thought it was a good place but I've had the worst experience ever.. By far the worst company I've ever dealt with.. Be careful!",
+      "summaries": {
+        "Version1": {
+          "text": "Poor customer service experienced here",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.06818181818181818,
+            "BLANC-tune": 0.022727272727272728,
+            "BERTScore": -0.09436734765768051,
+            "Semantic Similarity": 0.4330819249153137,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.038461538461538464
+          }
+        },
+        "Version2": {
+          "text": "Disappointing rental experience reported",
+          "metrics": {
+            "ROUGE-1": 0.02816901302122599,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02816901302122599,
+            "METEOR": 0.006075334143377886,
+            "BLANC-help": 0.022727272727272728,
+            "BLANC-tune": 0.022727272727272728,
+            "BERTScore": -0.06521417945623398,
+            "Semantic Similarity": 0.49857524037361145,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.038461538461538464
+          }
+        },
+        "Version3": {
+          "text": "Bad business reputation found",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.045454545454545456,
+            "BERTScore": -0.1133498027920723,
+            "Semantic Similarity": 0.26139917969703674,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.038461538461538464
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.02816901302122599,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.02816901302122599,
+        "METEOR": 0.006075334143377886,
+        "BLANC-help": 0.06818181818181818,
+        "BLANC-tune": 0.045454545454545456,
+        "BERTScore": -0.06521417945623398,
+        "Semantic Similarity": 0.49857524037361145,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.038461538461538464
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We were out at the lake this weekend boating and towed a jet ski rented from Jet Action back to the dock.  Things happen, but when I called the office to help make arrangements for the couple \"stuck\" in the middle of the lake, I was treated rudely and told that \"these things don't break down so I don't know what to tell you.\"  No suggestions or assistance was offered. I would NOT rent here.  Unhelpful and very rude.",
+      "summaries": {
+        "Version1": {
+          "text": "Poor customer service prevails",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.023255813953488372,
+            "BLANC-tune": 0.023255813953488372,
+            "BERTScore": -0.1407971978187561,
+            "Semantic Similarity": 0.1652858853340149,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Unhelpful and rude experience guaranteed",
+          "metrics": {
+            "ROUGE-1": 0.08450704094425711,
+            "ROUGE-2": 0.024096384624764152,
+            "ROUGE-L": 0.08450704094425711,
+            "METEOR": 0.030678938241963445,
+            "BLANC-help": 0.06976744186046512,
+            "BLANC-tune": -0.046511627906976744,
+            "BERTScore": -0.03348822891712189,
+            "Semantic Similarity": 0.33899426460266113,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07407407407407407
+          }
+        },
+        "Version3": {
+          "text": "Lack of assistance and respect",
+          "metrics": {
+            "ROUGE-1": 0.08450704094425711,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.08450704094425711,
+            "METEOR": 0.018007202881152456,
+            "BLANC-help": 0.023255813953488372,
+            "BLANC-tune": -0.023255813953488372,
+            "BERTScore": -0.127349853515625,
+            "Semantic Similarity": 0.3077808618545532,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.037037037037037035
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.08450704094425711,
+        "ROUGE-2": 0.024096384624764152,
+        "ROUGE-L": 0.08450704094425711,
+        "METEOR": 0.030678938241963445,
+        "BLANC-help": 0.06976744186046512,
+        "BLANC-tune": 0.023255813953488372,
+        "BERTScore": -0.03348822891712189,
+        "Semantic Similarity": 0.33899426460266113,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.07407407407407407
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "Pompous manager hung up on me twice (!) when I called to ask about wait times.  Have never boycotted a restaurant until now.  Mediocre crepes don't entitle that sort of bush league behavior!",
+      "summaries": {
+        "Version1": {
+          "text": "Frustrated customer seeks service, doesn't receive.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.027777777777777776,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.09090909090909091,
+            "BERTScore": 0.03915577381849289,
+            "Semantic Similarity": 0.25008100271224976,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Patron's patience wearing thin due to rudeness.",
+          "metrics": {
+            "ROUGE-1": 0.04999999711250017,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04999999711250017,
+            "METEOR": 0.027777777777777776,
+            "BLANC-help": -0.045454545454545456,
+            "BLANC-tune": -0.045454545454545456,
+            "BERTScore": 0.041226714849472046,
+            "Semantic Similarity": 0.4291898012161255,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Unimpressed consumer faces inhospitable business.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.014005602240896359,
+            "BLANC-help": -0.045454545454545456,
+            "BLANC-tune": -0.09090909090909091,
+            "BERTScore": 0.00024156278232112527,
+            "Semantic Similarity": 0.34521323442459106,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.04999999711250017,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.04999999711250017,
+        "METEOR": 0.027777777777777776,
+        "BLANC-help": 0.0,
+        "BLANC-tune": -0.045454545454545456,
+        "BERTScore": 0.041226714849472046,
+        "Semantic Similarity": 0.4291898012161255,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "this place is an absolute joke. it's extremely overpriced ($12 for a solo ham and cheese crepe you have got to be kidding me), the menu is extremely limited, and the food is just plain not up to par. seriously--if you're going to try to make a place 'hip' or upscale and charge those kinds of prices, you've got to make the experience worth it. i honestly don't know what the people raving about this place are talking about when it comes to the most delicious food they've ever had. the crepe i had was waaaay too salty, and their bloody marys tasted like they were made of pickle juice. neither i nor the person i was dining with were impressed, and, needless to say, we won't be showing up again.",
+      "summaries": {
+        "Version1": {
+          "text": "Overpriced, underwhelming food experience disappoints.",
+          "metrics": {
+            "ROUGE-1": 0.04040403944495462,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04040403944495462,
+            "METEOR": 0.01771793054571226,
+            "BLANC-help": 0.014705882352941176,
+            "BLANC-tune": -0.07352941176470588,
+            "BERTScore": -0.01536572352051735,
+            "Semantic Similarity": 0.4471742510795593,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.045454545454545456
+          }
+        },
+        "Version2": {
+          "text": "Limited menu doesn't justify high prices.",
+          "metrics": {
+            "ROUGE-1": 0.019999998872000067,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.019999998872000067,
+            "METEOR": 0.017705382436260624,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.04411764705882353,
+            "BERTScore": 0.025263793766498566,
+            "Semantic Similarity": 0.47708359360694885,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06818181818181818
+          }
+        },
+        "Version3": {
+          "text": "Unimpressive dishes fail to impress.",
+          "metrics": {
+            "ROUGE-1": 0.02020201924293444,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02020201924293444,
+            "METEOR": 0.014184397163120567,
+            "BLANC-help": 0.014705882352941176,
+            "BLANC-tune": -0.17647058823529413,
+            "BERTScore": -0.0636143609881401,
+            "Semantic Similarity": 0.2571285367012024,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.04040403944495462,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.04040403944495462,
+        "METEOR": 0.01771793054571226,
+        "BLANC-help": 0.014705882352941176,
+        "BLANC-tune": -0.04411764705882353,
+        "BERTScore": 0.025263793766498566,
+        "Semantic Similarity": 0.47708359360694885,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.06818181818181818
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "This place is not there anymore.",
+      "summaries": {
+        "Version1": {
+          "text": "Gone Without a Trace Remains",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.25,
+            "BERTScore": -0.031104739755392075,
+            "Semantic Similarity": 0.3319992423057556,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Disappearing Acts Leave Empty Space",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.07352941176470587,
+            "BLANC-help": -0.25,
+            "BLANC-tune": -0.25,
+            "BERTScore": 0.056244928389787674,
+            "Semantic Similarity": 0.28757891058921814,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Erased Landmarks Vanish into Air",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.25,
+            "BERTScore": 0.061751075088977814,
+            "Semantic Similarity": 0.34038013219833374,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.07352941176470587,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.25,
+        "BERTScore": 0.061751075088977814,
+        "Semantic Similarity": 0.34038013219833374,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "My mom drove me all the way over there yesterday and it wasn't there.  We should have checked Yelp first.  I looked on their website and it looks like there aren't any in Arizona anymore. My mom was very disappointed.",
+      "summaries": {
+        "Version1": {
+          "text": "Mom's disappointment over unserved needs",
+          "metrics": {
+            "ROUGE-1": 0.05128204904667991,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05128204904667991,
+            "METEOR": 0.03571428571428571,
+            "BLANC-help": -0.13636363636363635,
+            "BLANC-tune": -0.045454545454545456,
+            "BERTScore": -0.02721642702817917,
+            "Semantic Similarity": 0.2377556413412094,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Unmet expectations in Arizona discovery",
+          "metrics": {
+            "ROUGE-1": 0.10256410032873114,
+            "ROUGE-2": 0.048780486044021486,
+            "ROUGE-L": 0.10256410032873114,
+            "METEOR": 0.06099177936886766,
+            "BLANC-help": -0.09090909090909091,
+            "BLANC-tune": -0.09090909090909091,
+            "BERTScore": -0.024097301065921783,
+            "Semantic Similarity": 0.22408467531204224,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Disappointment and regret without research",
+          "metrics": {
+            "ROUGE-1": 0.05128204904667991,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05128204904667991,
+            "METEOR": 0.02386634844868735,
+            "BLANC-help": -0.18181818181818182,
+            "BLANC-tune": -0.045454545454545456,
+            "BERTScore": -0.061407800763845444,
+            "Semantic Similarity": 0.00768083892762661,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.10256410032873114,
+        "ROUGE-2": 0.048780486044021486,
+        "ROUGE-L": 0.10256410032873114,
+        "METEOR": 0.06099177936886766,
+        "BLANC-help": -0.09090909090909091,
+        "BLANC-tune": -0.045454545454545456,
+        "BERTScore": -0.024097301065921783,
+        "Semantic Similarity": 0.2377556413412094,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.05094069847527818,
+    "ROUGE-2": 0.012146145111464272,
+    "ROUGE-L": 0.05094069847527818,
+    "METEOR": 0.036128528640400816,
+    "BLANC-help": 0.010291008581022262,
+    "BLANC-tune": 0.030613936906686567,
+    "BERTScore": 0.0009069790442784628,
+    "Semantic Similarity": 0.38699644555648166,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.03011957178623845
+  }
+}

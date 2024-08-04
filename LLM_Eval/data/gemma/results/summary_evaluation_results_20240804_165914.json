@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Stopped here on my way up north and picked up a paddleboard. Staff was super attentive and knowledgeable while helping me get correct board for my size. I will definitely go back.",
+      "summaries": {
+        "Version1": {
+          "text": "Excellent customer service.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.01567398119122257,
+            "BLANC-help": -0.058823529411764705,
+            "BLANC-tune": -0.11764705882352941,
+            "BERTScore": 0.08143879473209381,
+            "Semantic Similarity": 0.153916597366333,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Attentive staff.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.04716981132075471,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.02592208795249462,
+            "Semantic Similarity": 0.26036936044692993,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08333333333333333
+          }
+        },
+        "Version3": {
+          "text": "Knowledgeable staff, perfect board selection.",
+          "metrics": {
+            "ROUGE-1": 0.058823526903114286,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.058823526903114286,
+            "METEOR": 0.06211180124223602,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.059183236211538315,
+            "Semantic Similarity": 0.4603450894355774,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.16666666666666666
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.058823526903114286,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.058823526903114286,
+        "METEOR": 0.06211180124223602,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.08143879473209381,
+        "Semantic Similarity": 0.4603450894355774,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.16666666666666666
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We rolled in a little after 7; they close at 8. I needed a roof rack for my 240; hard to find. Staff patiently went through options and brought examples out. We rolled away with a sweet rack setup and installed; a little after 8.  Couldn't have been better.",
+      "summaries": {
+        "Version1": {
+          "text": "Pleasant customer service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.06666666666666667,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.16290408372879028,
+            "Semantic Similarity": 0.16272492706775665,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Easy roof rack selection",
+          "metrics": {
+            "ROUGE-1": 0.0930232541265549,
+            "ROUGE-2": 0.041666665494791706,
+            "ROUGE-L": 0.0930232541265549,
+            "METEOR": 0.019011406844106463,
+            "BLANC-help": 0.1,
+            "BLANC-tune": 0.06666666666666667,
+            "BERTScore": 0.09628324955701828,
+            "Semantic Similarity": 0.5796299576759338,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.11764705882352941
+          }
+        },
+        "Version3": {
+          "text": "Seamless transaction",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.03333333333333333,
+            "BERTScore": -0.27473917603492737,
+            "Semantic Similarity": 0.16288700699806213,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0930232541265549,
+        "ROUGE-2": 0.041666665494791706,
+        "ROUGE-L": 0.0930232541265549,
+        "METEOR": 0.019011406844106463,
+        "BLANC-help": 0.1,
+        "BLANC-tune": 0.06666666666666667,
+        "BERTScore": 0.09628324955701828,
+        "Semantic Similarity": 0.5796299576759338,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.11764705882352941
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "this little place was great! fun day with great jet skis...the older couple is extremely nice and made for an affordable fun time at the lake. I would highly recommend giving these guys a chance! they have the trailer hitch if you need and include many sized life jackets.",
+      "summaries": {
+        "Version1": {
+          "text": "Excellent experience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.0625,
+            "BLANC-tune": -0.09375,
+            "BERTScore": -0.1295677125453949,
+            "Semantic Similarity": 0.266406387090683,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Affordable fun at the lake",
+          "metrics": {
+            "ROUGE-1": 0.15686274332948869,
+            "ROUGE-2": 0.07547169671769313,
+            "ROUGE-L": 0.15686274332948869,
+            "METEOR": 0.07440000000000001,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.19388097524642944,
+            "Semantic Similarity": 0.5716008543968201,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.1111111111111111
+          }
+        },
+        "Version3": {
+          "text": "Friendly hosts, great jet skis",
+          "metrics": {
+            "ROUGE-1": 0.11764705705497887,
+            "ROUGE-2": 0.07547169671769313,
+            "ROUGE-L": 0.11764705705497887,
+            "METEOR": 0.0587713461964959,
+            "BLANC-help": 0.0625,
+            "BLANC-tune": 0.03125,
+            "BERTScore": 0.15271040797233582,
+            "Semantic Similarity": 0.6327759027481079,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.1111111111111111
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.15686274332948869,
+        "ROUGE-2": 0.07547169671769313,
+        "ROUGE-L": 0.15686274332948869,
+        "METEOR": 0.07440000000000001,
+        "BLANC-help": 0.0625,
+        "BLANC-tune": 0.03125,
+        "BERTScore": 0.19388097524642944,
+        "Semantic Similarity": 0.6327759027481079,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.1111111111111111
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Best of the best. Awesome prices. Great running skis. Super Duper friendly as can be. Very nice, down to earth people. Life jackets, trailer, anchor, ties...everything you need supplied. I'll definitely be back. Maybe rent one of their boats. I can't say enough good things about this company...",
+      "summaries": {
+        "Version1": {
+          "text": "Excellent service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.16869311034679413,
+            "Semantic Similarity": 0.4187949299812317,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Friendly and helpful staff",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.008488964346349746,
+            "BLANC-help": 0.05714285714285714,
+            "BLANC-tune": -0.02857142857142857,
+            "BERTScore": -0.1249416396021843,
+            "Semantic Similarity": 0.29438546299934387,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.043478260869565216
+          }
+        },
+        "Version3": {
+          "text": "Comprehensive equipment supply",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.008503401360544218,
+            "BLANC-help": -0.02857142857142857,
+            "BLANC-tune": -0.02857142857142857,
+            "BERTScore": -0.24209676682949066,
+            "Semantic Similarity": 0.3414859473705292,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.043478260869565216
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.008503401360544218,
+        "BLANC-help": 0.05714285714285714,
+        "BLANC-tune": 0.0,
+        "BERTScore": -0.1249416396021843,
+        "Semantic Similarity": 0.4187949299812317,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.043478260869565216
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Stopped by to check out a GPS unit and grab a few things. I was greeted with a smile and Ashley the cashier was very helpful and friendly!! Still love this place!! Always a great experience!",
+      "summaries": {
+        "Version1": {
+          "text": "Warm welcome and friendly service.",
+          "metrics": {
+            "ROUGE-1": 0.05714285469387766,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05714285469387766,
+            "METEOR": 0.06655092592592593,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.15,
+            "BERTScore": 0.18678878247737885,
+            "Semantic Similarity": 0.48401740193367004,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06666666666666667
+          }
+        },
+        "Version2": {
+          "text": "Pleasant interaction with cashier.",
+          "metrics": {
+            "ROUGE-1": 0.11764705674740487,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.11764705674740487,
+            "METEOR": 0.03916449086161879,
+            "BLANC-help": 0.05,
+            "BLANC-tune": 0.05,
+            "BERTScore": 0.19026529788970947,
+            "Semantic Similarity": 0.4688953757286072,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06666666666666667
+          }
+        },
+        "Version3": {
+          "text": "Positive customer experience.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.02617801047120419,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.15,
+            "BERTScore": 0.10452675819396973,
+            "Semantic Similarity": 0.5046793222427368,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06666666666666667
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.11764705674740487,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.11764705674740487,
+        "METEOR": 0.06655092592592593,
+        "BLANC-help": 0.05,
+        "BLANC-tune": 0.15,
+        "BERTScore": 0.19026529788970947,
+        "Semantic Similarity": 0.5046793222427368,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.06666666666666667
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "This our favorite lake on which to take the boat out. The obvious reason being, it's the only one on the West side. However, in addition to convenience, we love it because it is so large. There is plenty of room for everyone. So it's easy to find a cove, drop anchor and just chill, without a million people all around you.In addition, the main boat ramp is nice and wide, so there's rarely a wait, and there is plenty of parking. There is another ramp available as well, but we have never used it.",
+      "summaries": {
+        "Version1": {
+          "text": "Ideal size and accessibility.",
+          "metrics": {
+            "ROUGE-1": 0.02631578847645433,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02631578847645433,
+            "METEOR": 0.00978473581213307,
+            "BLANC-help": 0.018867924528301886,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.0339745357632637,
+            "Semantic Similarity": 0.27131789922714233,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Spacious and uncrowded.",
+          "metrics": {
+            "ROUGE-1": 0.02666666589866669,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02666666589866669,
+            "METEOR": 0.00979431929480901,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.010445824824273586,
+            "Semantic Similarity": 0.3705388605594635,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Convenient and tranquil.",
+          "metrics": {
+            "ROUGE-1": 0.02666666589866669,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02666666589866669,
+            "METEOR": 0.014691478942213515,
+            "BLANC-help": -0.018867924528301886,
+            "BLANC-tune": 0.03773584905660377,
+            "BERTScore": 0.07521678507328033,
+            "Semantic Similarity": 0.20479857921600342,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.02666666589866669,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.02666666589866669,
+        "METEOR": 0.014691478942213515,
+        "BLANC-help": 0.018867924528301886,
+        "BLANC-tune": 0.03773584905660377,
+        "BERTScore": 0.07521678507328033,
+        "Semantic Similarity": 0.3705388605594635,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.07550387450087158,
+    "ROUGE-2": 0.019523060368747472,
+    "ROUGE-L": 0.07550387450087158,
+    "METEOR": 0.04087816905250436,
+    "BLANC-help": 0.048085130278526504,
+    "BLANC-tune": 0.04760875262054507,
+    "BERTScore": 0.08535724381605785,
+    "Semantic Similarity": 0.4944606771071752,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.08426162735625652
+  }
+}

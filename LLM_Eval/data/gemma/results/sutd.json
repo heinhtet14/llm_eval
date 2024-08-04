@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "summaries": {
+        "Version1": {
+          "text": "Budget vibes and underwhelming food.",
+          "metrics": {
+            "ROUGE-1": 0.050632910206697676,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02531645451049517,
+            "METEOR": 0.013698630136986302,
+            "BLANC-help": 0.05263157894736842,
+            "BLANC-tune": -0.03508771929824561,
+            "BERTScore": -0.05288035422563553,
+            "Semantic Similarity": 0.480067640542984,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.023809523809523808
+          }
+        },
+        "Version2": {
+          "text": "Low-cost experience with questionable cuisine.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.004566210045662101,
+            "BLANC-help": 0.03508771929824561,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.027736634016036987,
+            "Semantic Similarity": 0.6361516714096069,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Disappointing food quality despite cheap prices.",
+          "metrics": {
+            "ROUGE-1": 0.04999999861250004,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04999999861250004,
+            "METEOR": 0.018248175182481754,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.017543859649122806,
+            "BERTScore": -0.030810203403234482,
+            "Semantic Similarity": 0.5796862244606018,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07142857142857142
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.050632910206697676,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.04999999861250004,
+        "METEOR": 0.018248175182481754,
+        "BLANC-help": 0.05263157894736842,
+        "BLANC-tune": 0.017543859649122806,
+        "BERTScore": -0.027736634016036987,
+        "Semantic Similarity": 0.6361516714096069,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.07142857142857142
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "summaries": {
+        "Version1": {
+          "text": "Food Quality Issues",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.12195121951219512,
+            "BLANC-tune": 0.024390243902439025,
+            "BERTScore": -0.16851475834846497,
+            "Semantic Similarity": 0.4335178732872009,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Unsatisfactory Meal Experience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.17073170731707318,
+            "BLANC-tune": -0.04878048780487805,
+            "BERTScore": -0.23929725587368011,
+            "Semantic Similarity": 0.487903356552124,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Cold Food and Old Fries",
+          "metrics": {
+            "ROUGE-1": 0.03030302890266306,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03030302890266306,
+            "METEOR": 0.025380710659898473,
+            "BLANC-help": -0.07317073170731707,
+            "BLANC-tune": 0.04878048780487805,
+            "BERTScore": -0.07046005129814148,
+            "Semantic Similarity": 0.47490987181663513,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.03030302890266306,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.03030302890266306,
+        "METEOR": 0.025380710659898473,
+        "BLANC-help": -0.07317073170731707,
+        "BLANC-tune": 0.04878048780487805,
+        "BERTScore": -0.07046005129814148,
+        "Semantic Similarity": 0.487903356552124,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "This is a so-called restaurant that doesn't do anything a restaurant should do except preparing food, the rest is left to the guest. Do you want water? Get up and go across the yard to get it. If you want a drink, go downstairs and pay in cash. Want to sit in dirty deckchairs in a dirty garden, enjoy yourself. The waiters are a little bit helpful as they bring you your food after you go to the window and pay cash for it. Kind of like New Orleans Hamburger and Seafood, but dirty and with live music (which is nice). It's a once in a lifetime experience for me... just once.",
+      "summaries": {
+        "Version1": {
+          "text": "Unique dining experience",
+          "metrics": {
+            "ROUGE-1": 0.025316454965550416,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.025316454965550416,
+            "METEOR": 0.0042955326460481094,
+            "BLANC-help": 0.03636363636363636,
+            "BLANC-tune": 0.03636363636363636,
+            "BERTScore": -0.08969713747501373,
+            "Semantic Similarity": 0.5627180337905884,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03125
+          }
+        },
+        "Version2": {
+          "text": "DIY dining concept",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.07272727272727272,
+            "BLANC-tune": -0.03636363636363636,
+            "BERTScore": -0.13192930817604065,
+            "Semantic Similarity": 0.54908686876297,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Sparsely furnished outdoor space",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.05454545454545454,
+            "BLANC-tune": 0.01818181818181818,
+            "BERTScore": -0.2518228590488434,
+            "Semantic Similarity": 0.4179167151451111,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.025316454965550416,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.025316454965550416,
+        "METEOR": 0.0042955326460481094,
+        "BLANC-help": 0.07272727272727272,
+        "BLANC-tune": 0.03636363636363636,
+        "BERTScore": -0.08969713747501373,
+        "Semantic Similarity": 0.5627180337905884,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03125
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "My brother came to visit and we wanted to pick up a six pack of good beer for one night. We ended up staying and having a few while playing their Nintendo 64 (Super Smash Brothers which the owner said was donated by other customers). It's a great place with good food and really nice people. Should be a staple in the Northeast.",
+      "summaries": {
+        "Version1": {
+          "text": "Pleasant social gathering",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.027777777777777776,
+            "BLANC-tune": -0.05555555555555555,
+            "BERTScore": -0.10153653472661972,
+            "Semantic Similarity": 0.2470422387123108,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Good food and company",
+          "metrics": {
+            "ROUGE-1": 0.06896551595719384,
+            "ROUGE-2": 0.030769229888757424,
+            "ROUGE-L": 0.06896551595719384,
+            "METEOR": 0.046442341395022776,
+            "BLANC-help": -0.05555555555555555,
+            "BLANC-tune": 0.027777777777777776,
+            "BERTScore": -0.10968680679798126,
+            "Semantic Similarity": 0.37090176343917847,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08
+          }
+        },
+        "Version3": {
+          "text": "Friendly atmosphere and games",
+          "metrics": {
+            "ROUGE-1": 0.03448275733650421,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03448275733650421,
+            "METEOR": 0.007886435331230283,
+            "BLANC-help": 0.027777777777777776,
+            "BLANC-tune": -0.027777777777777776,
+            "BERTScore": -0.10443105548620224,
+            "Semantic Similarity": 0.3701890707015991,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.06896551595719384,
+        "ROUGE-2": 0.030769229888757424,
+        "ROUGE-L": 0.06896551595719384,
+        "METEOR": 0.046442341395022776,
+        "BLANC-help": 0.027777777777777776,
+        "BLANC-tune": 0.027777777777777776,
+        "BERTScore": -0.10153653472661972,
+        "Semantic Similarity": 0.37090176343917847,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.08
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "summaries": {
+        "Version1": {
+          "text": "Excellent coconut soup, balanced herbs.",
+          "metrics": {
+            "ROUGE-1": 0.05714285581632657,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05714285581632657,
+            "METEOR": 0.025536261491317668,
+            "BLANC-help": 0.016666666666666666,
+            "BLANC-tune": 0.1,
+            "BERTScore": 0.12636664509773254,
+            "Semantic Similarity": 0.5986546874046326,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08823529411764706
+          }
+        },
+        "Version2": {
+          "text": "Creamy coconut soup, savory pat thai.",
+          "metrics": {
+            "ROUGE-1": 0.0845070407062091,
+            "ROUGE-2": 0.02020201924293444,
+            "ROUGE-L": 0.0845070407062091,
+            "METEOR": 0.048937942523948355,
+            "BLANC-help": 0.1,
+            "BLANC-tune": 0.13333333333333333,
+            "BERTScore": 0.11924866586923599,
+            "Semantic Similarity": 0.6403235197067261,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08823529411764706
+          }
+        },
+        "Version3": {
+          "text": "Perfect coconut soup, chewy noodles.",
+          "metrics": {
+            "ROUGE-1": 0.08571428438775514,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05714285581632657,
+            "METEOR": 0.035750766087844735,
+            "BLANC-help": 0.06666666666666667,
+            "BLANC-tune": 0.15,
+            "BERTScore": 0.1510523110628128,
+            "Semantic Similarity": 0.5842739343643188,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.11764705882352941
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.08571428438775514,
+        "ROUGE-2": 0.02020201924293444,
+        "ROUGE-L": 0.0845070407062091,
+        "METEOR": 0.048937942523948355,
+        "BLANC-help": 0.1,
+        "BLANC-tune": 0.15,
+        "BERTScore": 0.1510523110628128,
+        "Semantic Similarity": 0.6403235197067261,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.11764705882352941
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "summaries": {
+        "Version1": {
+          "text": "Friendly staff, liked BOGO offer.",
+          "metrics": {
+            "ROUGE-1": 0.032786883740929924,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.032786883740929924,
+            "METEOR": 0.02894356005788712,
+            "BLANC-help": 0.07692307692307693,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.098507821559906,
+            "Semantic Similarity": 0.22671210765838623,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.10714285714285714
+          }
+        },
+        "Version2": {
+          "text": "Enjoyed pizza and wings, lots of sauce.",
+          "metrics": {
+            "ROUGE-1": 0.09523809326278664,
+            "ROUGE-2": 0.026666665194666747,
+            "ROUGE-L": 0.09523809326278664,
+            "METEOR": 0.06152797819464486,
+            "BLANC-help": 0.05128205128205128,
+            "BLANC-tune": -0.02564102564102564,
+            "BERTScore": 0.14307650923728943,
+            "Semantic Similarity": 0.543938398361206,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.10714285714285714
+          }
+        },
+        "Version3": {
+          "text": "Excellent customer service, tasty food.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.00723589001447178,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.10256410256410256,
+            "BERTScore": 0.03251668065786362,
+            "Semantic Similarity": 0.44948840141296387,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.09523809326278664,
+        "ROUGE-2": 0.026666665194666747,
+        "ROUGE-L": 0.09523809326278664,
+        "METEOR": 0.06152797819464486,
+        "BLANC-help": 0.07692307692307693,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.14307650923728943,
+        "Semantic Similarity": 0.543938398361206,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.10714285714285714
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.059361714613774465,
+    "ROUGE-2": 0.012939652387726435,
+    "ROUGE-L": 0.05905502206781719,
+    "METEOR": 0.03413878010034072,
+    "BLANC-help": 0.04281482911136313,
+    "BLANC-tune": 0.04674429359923584,
+    "BERTScore": 0.0007830771307150523,
+    "Semantic Similarity": 0.5403227905432383,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.06791141456582632
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "This paddle sport supply store is stocked to the rafters with a staggering selection of everything you could possibly ever need to get your crazy paddle on.  Owners, Jeff and Darren, are friendly and quick to answer even silly newbie questions.",
+      "summaries": {
+        "Version1": {
+          "text": "Friendly owners, extensive paddle supply.",
+          "metrics": {
+            "ROUGE-1": 0.09523809314058962,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.09523809314058962,
+            "METEOR": 0.07281553398058253,
+            "BLANC-help": -0.07142857142857142,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.16095320880413055,
+            "Semantic Similarity": 0.7830703258514404,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.1875
+          }
+        },
+        "Version2": {
+          "text": "Comprehensive stock; knowledgeable staff await.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.024271844660194178,
+            "BLANC-help": 0.03571428571428571,
+            "BLANC-tune": 0.03571428571428571,
+            "BERTScore": 0.04406719654798508,
+            "Semantic Similarity": 0.29258033633232117,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0625
+          }
+        },
+        "Version3": {
+          "text": "All-inclusive kayaking necessities available.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012195121951219511,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.005161108914762735,
+            "Semantic Similarity": 0.5461287498474121,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.09523809314058962,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.09523809314058962,
+        "METEOR": 0.07281553398058253,
+        "BLANC-help": 0.03571428571428571,
+        "BLANC-tune": 0.03571428571428571,
+        "BERTScore": 0.16095320880413055,
+        "Semantic Similarity": 0.7830703258514404,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.1875
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "This place is a veritable candy store for outdoor enthusiasts, especially kayak and canoers. Really friendly and knowledgeable people ready to help. They have a huge inventory of watercraft out back, so don't get fooled by the size of the building or showroom. The building backs up to a channel that makes it possible to test drive a kayak or canoe. One word of warning - you will want to buy something, anything, when you walk in.",
+      "summaries": {
+        "Version1": {
+          "text": "Outdoor enthusiasts' watercraft haven",
+          "metrics": {
+            "ROUGE-1": 0.02985074514591227,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02985074514591227,
+            "METEOR": 0.032430908065425826,
+            "BLANC-help": 0.022727272727272728,
+            "BLANC-tune": -0.022727272727272728,
+            "BERTScore": 0.08782078325748444,
+            "Semantic Similarity": 0.5351731777191162,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.09090909090909091
+          }
+        },
+        "Version2": {
+          "text": "Friendly staff, vast kayak inventory",
+          "metrics": {
+            "ROUGE-1": 0.05882352804930799,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05882352804930799,
+            "METEOR": 0.03168567807351077,
+            "BLANC-help": 0.022727272727272728,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.11365070194005966,
+            "Semantic Similarity": 0.601752519607544,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06060606060606061
+          }
+        },
+        "Version3": {
+          "text": "Channel test drive encourages purchases",
+          "metrics": {
+            "ROUGE-1": 0.05882352804930799,
+            "ROUGE-2": 0.024999999050000037,
+            "ROUGE-L": 0.05882352804930799,
+            "METEOR": 0.032430908065425826,
+            "BLANC-help": -0.022727272727272728,
+            "BLANC-tune": 0.045454545454545456,
+            "BERTScore": 0.04367518797516823,
+            "Semantic Similarity": 0.4060995578765869,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06060606060606061
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.05882352804930799,
+        "ROUGE-2": 0.024999999050000037,
+        "ROUGE-L": 0.05882352804930799,
+        "METEOR": 0.032430908065425826,
+        "BLANC-help": 0.022727272727272728,
+        "BLANC-tune": 0.045454545454545456,
+        "BERTScore": 0.11365070194005966,
+        "Semantic Similarity": 0.601752519607544,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.09090909090909091
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "I've done quite a bit of canoeing and kayaking - lakes, rivers, whitewater, but, never actually owned my own Kayak.  I live on the Sugar River and was looking for a nice boat that had a good balance of maneuverability, stability, tracking, and efficiency so I could use it on the river but, also take it on nice paddles on lakes.The staff were excellent about helping me and very patient as I tried numerous boats, over and over and over, at their test area located on the channel between Lake Monona and Upper Mud Lake on the Yahara.  In the end, I ended up picking the boat that TWO staff people first recommended right from the start.  They listened to my needs, helped me extensively, and made some really good recommendations for selection of a paddle and other accessories.I've since purchased the boat and have had MANY opportunities to paddle it - on flat water, rivers, and some small rapids.  The boat has been great for me.I will definitely come back - we are looking at another purchase for my wife.",
+      "summaries": {
+        "Version1": {
+          "text": "Excellent staff, perfect boat choice.",
+          "metrics": {
+            "ROUGE-1": 0.015748030739661516,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.015748030739661516,
+            "METEOR": 0.013631406761177753,
+            "BLANC-help": 0.009615384615384616,
+            "BLANC-tune": -0.0673076923076923,
+            "BERTScore": -0.032658651471138,
+            "Semantic Similarity": 0.5109975934028625,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05454545454545454
+          }
+        },
+        "Version2": {
+          "text": "Patient assistance, great paddling experiences.",
+          "metrics": {
+            "ROUGE-1": 0.015748030739661516,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.015748030739661516,
+            "METEOR": 0.016357688113413305,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.08653846153846154,
+            "BERTScore": 0.010048517026007175,
+            "Semantic Similarity": 0.43691977858543396,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05454545454545454
+          }
+        },
+        "Version3": {
+          "text": "Maneuverability met, satisfied buyer returns.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.010905125408942203,
+            "BLANC-help": 0.019230769230769232,
+            "BLANC-tune": -0.038461538461538464,
+            "BERTScore": -0.18918992578983307,
+            "Semantic Similarity": 0.10778672993183136,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.015748030739661516,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.015748030739661516,
+        "METEOR": 0.016357688113413305,
+        "BLANC-help": 0.019230769230769232,
+        "BLANC-tune": -0.038461538461538464,
+        "BERTScore": 0.010048517026007175,
+        "Semantic Similarity": 0.5109975934028625,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.05454545454545454
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Great place to rent kayaks for a little bit of exercise and sun...",
+      "summaries": {
+        "Version1": {
+          "text": "Kayak rental near sunny outdoor spot.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.07518796992481203,
+            "BLANC-help": 0.16666666666666666,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.24382902681827545,
+            "Semantic Similarity": 0.789480447769165,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.125
+          }
+        },
+        "Version2": {
+          "text": "Paddle on clear water for fitness, fun.",
+          "metrics": {
+            "ROUGE-1": 0.09999999545000023,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.09999999545000023,
+            "METEOR": 0.037037037037037035,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.2760402262210846,
+            "Semantic Similarity": 0.44857701659202576,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Explore scenic views with kayaking activity.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.03759398496240601,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.26038244366645813,
+            "Semantic Similarity": 0.6525058150291443,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.125
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.09999999545000023,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.09999999545000023,
+        "METEOR": 0.07518796992481203,
+        "BLANC-help": 0.16666666666666666,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.2760402262210846,
+        "Semantic Similarity": 0.789480447769165,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.125
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Amazing selection of product, and very knowledgable staff. Location is great because you can paddle right from the back door.",
+      "summaries": {
+        "Version1": {
+          "text": "Staff expertise enhances product selection.",
+          "metrics": {
+            "ROUGE-1": 0.07999999680000014,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07999999680000014,
+            "METEOR": 0.09389671361502347,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.22883129119873047,
+            "Semantic Similarity": 0.41550254821777344,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.3
+          }
+        },
+        "Version2": {
+          "text": "Exceptional range, knowledgeable assistance awaits.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.07009345794392524,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.12146158516407013,
+            "Semantic Similarity": 0.36761099100112915,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Outstanding products, insightful guidance provided.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.11941848390446523,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.19401411712169647,
+            "Semantic Similarity": 0.41565728187561035,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.1
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.07999999680000014,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.07999999680000014,
+        "METEOR": 0.11941848390446523,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.22883129119873047,
+        "Semantic Similarity": 0.41565728187561035,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.3
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "Stopped here on my way up north and picked up a paddleboard. Staff was super attentive and knowledgeable while helping me get correct board for my size. I will definitely go back.",
+      "summaries": {
+        "Version1": {
+          "text": "Staff attentive, knowledgeable board selection.",
+          "metrics": {
+            "ROUGE-1": 0.17647058572664362,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.17647058572664362,
+            "METEOR": 0.07763975155279504,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.12513411045074463,
+            "Semantic Similarity": 0.4854412376880646,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.25
+          }
+        },
+        "Version2": {
+          "text": "Excellent paddleboard assistance experience.",
+          "metrics": {
+            "ROUGE-1": 0.060606058475665824,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.060606058475665824,
+            "METEOR": 0.046875,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.17526651918888092,
+            "Semantic Similarity": 0.6519386768341064,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08333333333333333
+          }
+        },
+        "Version3": {
+          "text": "Superior service ensures correct purchase.",
+          "metrics": {
+            "ROUGE-1": 0.058823526903114286,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.058823526903114286,
+            "METEOR": 0.031152647975077878,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.11764705882352941,
+            "BERTScore": 0.12540464103221893,
+            "Semantic Similarity": 0.17647898197174072,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08333333333333333
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.17647058572664362,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.17647058572664362,
+        "METEOR": 0.07763975155279504,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.17526651918888092,
+        "Semantic Similarity": 0.6519386768341064,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.25
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.08771337165103386,
+    "ROUGE-2": 0.004166666508333339,
+    "ROUGE-L": 0.08771337165103386,
+    "METEOR": 0.06564172259024899,
+    "BLANC-help": 0.04072316572316572,
+    "BLANC-tune": 0.007117882117882117,
+    "BERTScore": 0.16079841072981557,
+    "Semantic Similarity": 0.6254828075567881,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.16799242424242425
+  }
+}

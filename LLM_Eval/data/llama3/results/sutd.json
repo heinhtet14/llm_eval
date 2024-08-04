@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "summaries": {
+        "Version1": {
+          "text": "Mixed Bag",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.03508771929824561,
+            "BLANC-tune": -0.017543859649122806,
+            "BERTScore": -0.2463470697402954,
+            "Semantic Similarity": 0.15673668682575226,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Affordable but Flawed Experience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.05263157894736842,
+            "BERTScore": -0.2450898140668869,
+            "Semantic Similarity": 0.2035798877477646,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Hits and Misses at a Price",
+          "metrics": {
+            "ROUGE-1": 0.024999998612500077,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.024999998612500077,
+            "METEOR": 0.009132420091324202,
+            "BLANC-help": 0.017543859649122806,
+            "BLANC-tune": -0.017543859649122806,
+            "BERTScore": -0.30164799094200134,
+            "Semantic Similarity": 0.17049935460090637,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.023809523809523808
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.024999998612500077,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.024999998612500077,
+        "METEOR": 0.009132420091324202,
+        "BLANC-help": 0.017543859649122806,
+        "BLANC-tune": -0.017543859649122806,
+        "BERTScore": -0.2450898140668869,
+        "Semantic Similarity": 0.2035798877477646,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.023809523809523808
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "summaries": {
+        "Version1": {
+          "text": "Burger fail, pizza okay",
+          "metrics": {
+            "ROUGE-1": 0.030769229614201227,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.030769229614201227,
+            "METEOR": 0.025380710659898473,
+            "BLANC-help": 0.024390243902439025,
+            "BLANC-tune": -0.04878048780487805,
+            "BERTScore": 0.023210864514112473,
+            "Semantic Similarity": 0.5724990367889404,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03225806451612903
+          }
+        },
+        "Version2": {
+          "text": "Mixed experience, room for improvement",
+          "metrics": {
+            "ROUGE-1": 0.03030302890266306,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03030302890266306,
+            "METEOR": 0.012674271229404309,
+            "BLANC-help": -0.0975609756097561,
+            "BLANC-tune": -0.04878048780487805,
+            "BERTScore": -0.09025583416223526,
+            "Semantic Similarity": 0.20605260133743286,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Disappointing visit, seeking better options",
+          "metrics": {
+            "ROUGE-1": 0.03030302890266306,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03030302890266306,
+            "METEOR": 0.012674271229404309,
+            "BLANC-help": -0.0975609756097561,
+            "BLANC-tune": -0.0975609756097561,
+            "BERTScore": -0.09148307889699936,
+            "Semantic Similarity": 0.31531012058258057,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03225806451612903
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.030769229614201227,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.030769229614201227,
+        "METEOR": 0.025380710659898473,
+        "BLANC-help": 0.024390243902439025,
+        "BLANC-tune": -0.04878048780487805,
+        "BERTScore": 0.023210864514112473,
+        "Semantic Similarity": 0.5724990367889404,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03225806451612903
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "summaries": {
+        "Version1": {
+          "text": "Delightful Thai cuisine experience awaited.",
+          "metrics": {
+            "ROUGE-1": 0.05714285581632657,
+            "ROUGE-2": 0.02040816248229907,
+            "ROUGE-L": 0.05714285581632657,
+            "METEOR": 0.015337423312883436,
+            "BLANC-help": 0.03333333333333333,
+            "BLANC-tune": 0.05,
+            "BERTScore": -0.0006512306863442063,
+            "Semantic Similarity": 0.598175048828125,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.029411764705882353
+          }
+        },
+        "Version2": {
+          "text": "Satisfying flavors in a bowl.",
+          "metrics": {
+            "ROUGE-1": 0.028571427244898025,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.028571427244898025,
+            "METEOR": 0.010224948875255624,
+            "BLANC-help": -0.05,
+            "BLANC-tune": 0.03333333333333333,
+            "BERTScore": -0.0550074465572834,
+            "Semantic Similarity": 0.47943663597106934,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Authentic taste buds pleased easily.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.005112474437627812,
+            "BLANC-help": -0.05,
+            "BLANC-tune": 0.06666666666666667,
+            "BERTScore": -0.10974437743425369,
+            "Semantic Similarity": 0.37987464666366577,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.05714285581632657,
+        "ROUGE-2": 0.02040816248229907,
+        "ROUGE-L": 0.05714285581632657,
+        "METEOR": 0.015337423312883436,
+        "BLANC-help": 0.03333333333333333,
+        "BLANC-tune": 0.06666666666666667,
+        "BERTScore": -0.0006512306863442063,
+        "Semantic Similarity": 0.598175048828125,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.029411764705882353
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "summaries": {
+        "Version1": {
+          "text": "Convenient location, friendly staff",
+          "metrics": {
+            "ROUGE-1": 0.03333333208888894,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03333333208888894,
+            "METEOR": 0.007256894049346878,
+            "BLANC-help": -0.07692307692307693,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.04820307716727257,
+            "Semantic Similarity": 0.2496957629919052,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03571428571428571
+          }
+        },
+        "Version2": {
+          "text": "Good experience with buy one free",
+          "metrics": {
+            "ROUGE-1": 0.06451612728407914,
+            "ROUGE-2": 0.027027025766983258,
+            "ROUGE-L": 0.06451612728407914,
+            "METEOR": 0.021739130434782608,
+            "BLANC-help": -0.07692307692307693,
+            "BLANC-tune": -0.05128205128205128,
+            "BERTScore": -0.031313810497522354,
+            "Semantic Similarity": 0.2656400799751282,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07142857142857142
+          }
+        },
+        "Version3": {
+          "text": "Decent food, great customer service found",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.01447178002894356,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.05128205128205128,
+            "BERTScore": 0.004296215251088142,
+            "Semantic Similarity": 0.4143395721912384,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.06451612728407914,
+        "ROUGE-2": 0.027027025766983258,
+        "ROUGE-L": 0.06451612728407914,
+        "METEOR": 0.021739130434782608,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.0,
+        "BERTScore": 0.04820307716727257,
+        "Semantic Similarity": 0.4143395721912384,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.07142857142857142
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "We had a party of 6 here for hibachi. Our waitress put our separate sushi orders on one plate so we couldn't really tell who was who and forgot several items on one order. I understand that I made mistakes but the restaurant was very quiet so we were a bit surprised. Usually hibachi is a fun lively experience and our chef said maybe three words but he cooked very well, his name was Francisco. The service was lazy, the food was pretty good and I hope it was just a free night here. But for the money I wouldn't go again.",
+      "summaries": {
+        "Version1": {
+          "text": "Disappointing hibachi experience with service issues",
+          "metrics": {
+            "ROUGE-1": 0.07317073035098157,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07317073035098157,
+            "METEOR": 0.014792899408284023,
+            "BLANC-help": -0.0196078431372549,
+            "BLANC-tune": 0.0392156862745098,
+            "BERTScore": -0.004699526354670525,
+            "Semantic Similarity": 0.48021528124809265,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08108108108108109
+          }
+        },
+        "Version2": {
+          "text": "Quiet evening at a usually lively spot",
+          "metrics": {
+            "ROUGE-1": 0.048192769539846185,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.048192769539846185,
+            "METEOR": 0.02463054187192118,
+            "BLANC-help": -0.0392156862745098,
+            "BLANC-tune": -0.058823529411764705,
+            "BERTScore": 0.006568106357008219,
+            "Semantic Similarity": 0.2546113431453705,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05405405405405406
+          }
+        },
+        "Version3": {
+          "text": "Subpar service mars decent food quality",
+          "metrics": {
+            "ROUGE-1": 0.04878048644854257,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04878048644854257,
+            "METEOR": 0.009861932938856016,
+            "BLANC-help": -0.0196078431372549,
+            "BLANC-tune": -0.0196078431372549,
+            "BERTScore": -0.020722484216094017,
+            "Semantic Similarity": 0.2986036241054535,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05405405405405406
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.07317073035098157,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.07317073035098157,
+        "METEOR": 0.02463054187192118,
+        "BLANC-help": -0.0196078431372549,
+        "BLANC-tune": 0.0392156862745098,
+        "BERTScore": 0.006568106357008219,
+        "Semantic Similarity": 0.48021528124809265,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.08108108108108109
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "I enjoyed \"Pleiades Rising\" for several reasons. A strong, 17 year old narrator describes her adventurous summer before beginning college in southern California. An archeological discovery along with astronomical and spiritual interventions propel Maggie and her friend Will to travel to Mexico. As the mystery behind their find deepens and the action increases, I felt that I was actually along for the ride. Just the right touch of love interest to pull in young romantics.",
+      "summaries": {
+        "Version1": {
+          "text": "Young adult's summer adventure unfolds globally.",
+          "metrics": {
+            "ROUGE-1": 0.0294117630968859,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0294117630968859,
+            "METEOR": 0.02617801047120419,
+            "BLANC-help": 0.061224489795918366,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.08691775053739548,
+            "Semantic Similarity": 0.4443991184234619,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05714285714285714
+          }
+        },
+        "Version2": {
+          "text": "Archeological discovery sparks international mystery quest.",
+          "metrics": {
+            "ROUGE-1": 0.058823527802768207,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.058823527802768207,
+            "METEOR": 0.04136631716906946,
+            "BLANC-help": 0.04081632653061224,
+            "BLANC-tune": 0.04081632653061224,
+            "BERTScore": 0.08281012624502182,
+            "Semantic Similarity": 0.30967801809310913,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08571428571428572
+          }
+        },
+        "Version3": {
+          "text": "Teenager's journey blends love, danger, and secrets.",
+          "metrics": {
+            "ROUGE-1": 0.028985505423230532,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.028985505423230532,
+            "METEOR": 0.03911342894393741,
+            "BLANC-help": 0.08163265306122448,
+            "BLANC-tune": -0.02040816326530612,
+            "BERTScore": 0.07708748430013657,
+            "Semantic Similarity": 0.40514448285102844,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.02857142857142857
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.058823527802768207,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.058823527802768207,
+        "METEOR": 0.04136631716906946,
+        "BLANC-help": 0.08163265306122448,
+        "BLANC-tune": 0.04081632653061224,
+        "BERTScore": 0.08691775053739548,
+        "Semantic Similarity": 0.4443991184234619,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.08571428571428572
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.051570411580142805,
+    "ROUGE-2": 0.00790586470821372,
+    "ROUGE-L": 0.051570411580142805,
+    "METEOR": 0.022931090589979896,
+    "BLANC-help": 0.022882041134810793,
+    "BLANC-tune": 0.013395722002964641,
+    "BERTScore": -0.01347354102957373,
+    "Semantic Similarity": 0.45220132420460385,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.053950548542578906
+  }
+}

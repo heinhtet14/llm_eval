@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Phenomenal locally owned store for outdoor enthusiasts. I like to buy local whenever I can and this store reminds me a lot of REI but with the added bonus of being locally owned. I've always received outstanding customer service and found the staff to go out of their way to find a solution for me. I just finished my holiday shopping here because they have a ton of little things that make great stocking stuffers for anyone like balms, solar lights for camping, doggy gear, kid stuff, etc. I often like to gauge a business by the happiness of its employees and when I talk with them about working at Rutabaga, they never hesitate to sing the praises of this very cool store. Looking forward to my next visit!",
+      "summaries": {
+        "Version1": {
+          "text": "Local favorite shines with service.",
+          "metrics": {
+            "ROUGE-1": 0.040816325562265755,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.040816325562265755,
+            "METEOR": 0.01568627450980392,
+            "BLANC-help": 0.0641025641025641,
+            "BLANC-tune": -0.07692307692307693,
+            "BERTScore": -0.02831723354756832,
+            "Semantic Similarity": 0.422978937625885,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03773584905660377
+          }
+        },
+        "Version2": {
+          "text": "Outdoor haven with exceptional staff.",
+          "metrics": {
+            "ROUGE-1": 0.040816325562265755,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.040816325562265755,
+            "METEOR": 0.01568627450980392,
+            "BLANC-help": 0.038461538461538464,
+            "BLANC-tune": -0.02564102564102564,
+            "BERTScore": 0.0409826785326004,
+            "Semantic Similarity": 0.4130336344242096,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03773584905660377
+          }
+        },
+        "Version3": {
+          "text": "Unique spot for adventure seekers.",
+          "metrics": {
+            "ROUGE-1": 0.020408162296959652,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.020408162296959652,
+            "METEOR": 0.00784313725490196,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.11538461538461539,
+            "BERTScore": 0.072852723300457,
+            "Semantic Similarity": 0.37213191390037537,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.040816325562265755,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.040816325562265755,
+        "METEOR": 0.01568627450980392,
+        "BLANC-help": 0.0641025641025641,
+        "BLANC-tune": -0.02564102564102564,
+        "BERTScore": 0.072852723300457,
+        "Semantic Similarity": 0.422978937625885,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03773584905660377
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "this little place was great! fun day with great jet skis...the older couple is extremely nice and made for an affordable fun time at the lake. I would highly recommend giving these guys a chance! they have the trailer hitch if you need and include many sized life jackets.",
+      "summaries": {
+        "Version1": {
+          "text": "Affordable Fun Lake Experience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.05121353818748608,
+            "BLANC-help": -0.09375,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.015444478951394558,
+            "Semantic Similarity": 0.5542901158332825,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Enjoyable Time with Nice Hosts",
+          "metrics": {
+            "ROUGE-1": 0.03921568450595933,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03921568450595933,
+            "METEOR": 0.029999999999999992,
+            "BLANC-help": -0.03125,
+            "BLANC-tune": 0.0625,
+            "BERTScore": -0.013265823014080524,
+            "Semantic Similarity": 0.28620439767837524,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.037037037037037035
+          }
+        },
+        "Version3": {
+          "text": "Relaxing Day on the Water",
+          "metrics": {
+            "ROUGE-1": 0.03921568450595933,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03921568450595933,
+            "METEOR": 0.019999999999999997,
+            "BLANC-help": -0.03125,
+            "BLANC-tune": -0.0625,
+            "BERTScore": 0.04672085493803024,
+            "Semantic Similarity": 0.38873958587646484,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.03921568450595933,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.03921568450595933,
+        "METEOR": 0.05121353818748608,
+        "BLANC-help": -0.03125,
+        "BLANC-tune": 0.0625,
+        "BERTScore": 0.04672085493803024,
+        "Semantic Similarity": 0.5542901158332825,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.037037037037037035
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "The owners Chris and joe were extremely nice. They took my reservation without a credit card. I rented two decent wave runners for $125 each for the whole day. $300 deposit on each. Brought them back at 5.30 in the same condition I picks them up. TheY threw in the life jackets and a hitch and trailer for the skis. This really is the best deal in town and 33 minute drive to the lake. Awesome day on the lake",
+      "summaries": {
+        "Version1": {
+          "text": "Friendly Owners, Great Deals Await",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012391573729863693,
+            "BLANC-help": 0.023255813953488372,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.14053021371364594,
+            "Semantic Similarity": 0.38665762543678284,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03333333333333333
+          }
+        },
+        "Version2": {
+          "text": "Affordable Fun on the Water Found",
+          "metrics": {
+            "ROUGE-1": 0.05970149090666078,
+            "ROUGE-2": 0.024390242757287385,
+            "ROUGE-L": 0.05970149090666078,
+            "METEOR": 0.023234200743494426,
+            "BLANC-help": 0.06976744186046512,
+            "BLANC-tune": -0.023255813953488372,
+            "BERTScore": -0.15105408430099487,
+            "Semantic Similarity": 0.4026331603527069,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Relaxing Day by the Lake Guaranteed",
+          "metrics": {
+            "ROUGE-1": 0.029850744638004103,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.029850744638004103,
+            "METEOR": 0.03166735508742944,
+            "BLANC-help": 0.06976744186046512,
+            "BLANC-tune": 0.046511627906976744,
+            "BERTScore": 0.022226953878998756,
+            "Semantic Similarity": 0.30227458477020264,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.05970149090666078,
+        "ROUGE-2": 0.024390242757287385,
+        "ROUGE-L": 0.05970149090666078,
+        "METEOR": 0.03166735508742944,
+        "BLANC-help": 0.06976744186046512,
+        "BLANC-tune": 0.046511627906976744,
+        "BERTScore": 0.022226953878998756,
+        "Semantic Similarity": 0.4026331603527069,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03333333333333333
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Best of the best. Awesome prices. Great running skis. Super Duper friendly as can be. Very nice, down to earth people. Life jackets, trailer, anchor, ties...everything you need supplied. I'll definitely be back. Maybe rent one of their boats. I can't say enough good things about this company...",
+      "summaries": {
+        "Version1": {
+          "text": "Top-notch Rentals with Exceptional Service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.00847457627118644,
+            "BLANC-help": -0.05714285714285714,
+            "BLANC-tune": -0.05714285714285714,
+            "BERTScore": -0.030604662373661995,
+            "Semantic Similarity": 0.48603934049606323,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Excellent Equipment & Friendly Assistance Offered",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.008460236886632826,
+            "BLANC-help": -0.05714285714285714,
+            "BLANC-tune": -0.02857142857142857,
+            "BERTScore": -0.13255970180034637,
+            "Semantic Similarity": 0.4144099950790405,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Superior Experiences through Quality Rentals",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.02857142857142857,
+            "BLANC-tune": -0.02857142857142857,
+            "BERTScore": -0.12844040989875793,
+            "Semantic Similarity": 0.5094082355499268,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.00847457627118644,
+        "BLANC-help": -0.02857142857142857,
+        "BLANC-tune": -0.02857142857142857,
+        "BERTScore": -0.030604662373661995,
+        "Semantic Similarity": 0.5094082355499268,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Friend found this place for our yearly trip to Lake Mead.   We have rented from other local places and these guys are very nice and informal.  No long video to watch and we're not overly suspicious of us.  Skis were in good shape and ran well all weekend. They worked with us on return time.   Easy transaction.  I left $300 which I got back the same 3 hundred bills I left.   Chris and Joe are great and plan on using them on all our future trips.",
+      "summaries": {
+        "Version1": {
+          "text": "Great Local Rental Experience Guaranteed",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.01150747986191024,
+            "BLANC-help": 0.058823529411764705,
+            "BLANC-tune": 0.058823529411764705,
+            "BERTScore": -0.09891960769891739,
+            "Semantic Similarity": 0.4391173720359802,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06060606060606061
+          }
+        },
+        "Version2": {
+          "text": "Friendly Rentals, Easy Transaction, Happy Customer",
+          "metrics": {
+            "ROUGE-1": 0.025974024537021502,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.025974024537021502,
+            "METEOR": 0.02150229357798165,
+            "BLANC-help": 0.0392156862745098,
+            "BLANC-tune": 0.058823529411764705,
+            "BERTScore": 0.015076837502419949,
+            "Semantic Similarity": 0.4137911796569824,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Informal, No-Fuss Ski Rental with Chris",
+          "metrics": {
+            "ROUGE-1": 0.051948050511047436,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.051948050511047436,
+            "METEOR": 0.022962112514351322,
+            "BLANC-help": 0.0196078431372549,
+            "BLANC-tune": 0.0196078431372549,
+            "BERTScore": -0.046577826142311096,
+            "Semantic Similarity": 0.5684944987297058,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.030303030303030304
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.051948050511047436,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.051948050511047436,
+        "METEOR": 0.022962112514351322,
+        "BLANC-help": 0.058823529411764705,
+        "BLANC-tune": 0.058823529411764705,
+        "BERTScore": 0.015076837502419949,
+        "Semantic Similarity": 0.5684944987297058,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.06060606060606061
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "You're next long Holiday weekend....Instructions:- take your boat or hop on one- go to Lake Pleasant- Head to the cove- tie up next to the bajillion boats that are there- wear sunscreen- Have the friggin' time of your life!!!!Tips:- bring alcohol only in cans and plastic containers- you can't tie on to another boat unless you have a female in your boat.  ( sorry... all sausage boats not allowed)- extra alcohol and a pack of cigarettes or some nice cigars make your neighbors friendlier- don't even bother bringing your inner tube or wake board. this is all chillin' and boat hopping.....",
+      "summaries": {
+        "Version1": {
+          "text": "Lake Pleasant boat party awaits you",
+          "metrics": {
+            "ROUGE-1": 0.07317073035098157,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07317073035098157,
+            "METEOR": 0.013477088948787063,
+            "BLANC-help": 0.07692307692307693,
+            "BLANC-tune": -0.06153846153846154,
+            "BERTScore": -0.09629490971565247,
+            "Semantic Similarity": 0.5442726612091064,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.02564102564102564
+          }
+        },
+        "Version2": {
+          "text": "Relax on Lake Pleasant's tranquil waters",
+          "metrics": {
+            "ROUGE-1": 0.04878048644854257,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04878048644854257,
+            "METEOR": 0.008976660682226212,
+            "BLANC-help": 0.046153846153846156,
+            "BLANC-tune": -0.046153846153846156,
+            "BERTScore": -0.12287246435880661,
+            "Semantic Similarity": 0.3938544988632202,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Unwind at Lake Pleasant's cove retreat",
+          "metrics": {
+            "ROUGE-1": 0.024390242546103585,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.024390242546103585,
+            "METEOR": 0.004488330341113106,
+            "BLANC-help": 0.046153846153846156,
+            "BLANC-tune": -0.03076923076923077,
+            "BERTScore": -0.13545703887939453,
+            "Semantic Similarity": 0.372840940952301,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.07317073035098157,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.07317073035098157,
+        "METEOR": 0.013477088948787063,
+        "BLANC-help": 0.07692307692307693,
+        "BLANC-tune": -0.03076923076923077,
+        "BERTScore": -0.09629490971565247,
+        "Semantic Similarity": 0.5442726612091064,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.02564102564102564
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.04414204697281915,
+    "ROUGE-2": 0.004065040459547898,
+    "ROUGE-L": 0.04414204697281915,
+    "METEOR": 0.023913490919840713,
+    "BLANC-help": 0.034965863954407046,
+    "BLANC-tune": 0.013808912056176079,
+    "BERTScore": 0.004996299588431914,
+    "Semantic Similarity": 0.5003462682167689,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.03239221761234339
+  }
+}

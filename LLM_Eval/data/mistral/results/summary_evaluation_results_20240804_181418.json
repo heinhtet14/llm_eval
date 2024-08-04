@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Perhaps good product, but really poor service. My wife and I stopped here to purchase a bike rack for our Rav4. We noticed a Rav4 in the parking lot with a bike rack and asked the salesperson (Jim) if he could help us determine if it met some of our criteria (does not cause bike damage to mounted back tire; allows back door to swing open for rear access). Jim was telling us some things that contradicted information I had found online; so we asked if he could help us track down the owner. This was over the top for Jim and he made derogatory comments as he strutted away to hide in the back of the store.  My wife and I tracked down the Rav4 owner on our own and he was more than happy to share his experience and contradict Jim's \"guesses\" that were portrayed as fact.I had never been in a situation where a sales person abandoned me in a store before; so I contacted the owner (Darren). He apologized and indicated that we would receive a 20% discount on another bike rack that he had in stock and that I believed would meet our needs. I indicated I would think about the purchase offer, but really wanted an apology from the sales person. I was told the offer stood for as long as they had my desired bike rack in stock and that I would receive an apology from Jim. I decided to purchase a rack and followed up twice to make arrangements. Once I was ignored; the other time I was told they'd have to check inventory. I was never able to make arrangements to conclude the sale and never received an apology from the sales person. If you place importance on follow-through and commitment to customer satisfaction, I would suggest you consider other stores in the Madison area. I frequent several other stores that have excellent follow-through and place greater emphasis on customer satisfaction.",
+      "summaries": {
+        "Version1": {
+          "text": "Disappointing service taints bike rack purchase",
+          "metrics": {
+            "ROUGE-1": 0.04545454479597108,
+            "ROUGE-2": 0.006896551385255665,
+            "ROUGE-L": 0.04545454479597108,
+            "METEOR": 0.006127450980392157,
+            "BLANC-help": 0.04736842105263158,
+            "BLANC-tune": 0.005263157894736842,
+            "BERTScore": -0.13263244926929474,
+            "Semantic Similarity": 0.6445673704147339,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.041237113402061855
+          }
+        },
+        "Version2": {
+          "text": "Salesperson's dismissal overshadows product quality",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.006127450980392157,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.19851763546466827,
+            "Semantic Similarity": 0.3061235249042511,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.010309278350515464
+          }
+        },
+        "Version3": {
+          "text": "Lack of follow-through undermines customer satisfaction",
+          "metrics": {
+            "ROUGE-1": 0.04545454479597108,
+            "ROUGE-2": 0.006896551385255665,
+            "ROUGE-L": 0.04545454479597108,
+            "METEOR": 0.011397058823529413,
+            "BLANC-help": 0.031578947368421054,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.016279354691505432,
+            "Semantic Similarity": 0.2365267425775528,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.030927835051546393
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.04545454479597108,
+        "ROUGE-2": 0.006896551385255665,
+        "ROUGE-L": 0.04545454479597108,
+        "METEOR": 0.011397058823529413,
+        "BLANC-help": 0.04736842105263158,
+        "BLANC-tune": 0.005263157894736842,
+        "BERTScore": -0.016279354691505432,
+        "Semantic Similarity": 0.6445673704147339,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.041237113402061855
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "Been going here for specialty boat items for 10 years spanning ownership of 4 boats. Ordered something from a VERY helpful gentlemen last Saturday. I got a message the part had arrrived in precisely the time I was told... I show up to an empty store with 2 employees attending to a pallet of product. One asks me if I need help and I explain I'm there to pick up a special order part... He says \"OK.\" and proceeds to put his hands in his pockets and talk to the girl attending to the pallet. 2 min later the girl begins walking towards us and asks my last name... She doesn't here me apparently and borderline yells \"WHAT\" at me. After repeating, she gets the part, tosses it on the counter, charges me and says, \"Thanks\" in a smart tone while walking away. Marine Max 1 mile away just got all of my business. You're welcome for a decade worth of business. Too bad you tossed it on a $3.16 part.",
+      "summaries": {
+        "Version1": {
+          "text": "Inefficient service loses decade's worth of sales.",
+          "metrics": {
+            "ROUGE-1": 0.031746030696649066,
+            "ROUGE-2": 0.011494252207689298,
+            "ROUGE-L": 0.031746030696649066,
+            "METEOR": 0.017711840628507298,
+            "BLANC-help": 0.011363636363636364,
+            "BLANC-tune": -0.011363636363636364,
+            "BERTScore": -0.07782700657844543,
+            "Semantic Similarity": 0.10010254383087158,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03571428571428571
+          }
+        },
+        "Version2": {
+          "text": "Prompt delivery, poor customer care.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0056179775280898875,
+            "BLANC-help": 0.03409090909090909,
+            "BLANC-tune": -0.03409090909090909,
+            "BERTScore": -0.0716724544763565,
+            "Semantic Similarity": 0.3155260980129242,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Disrespectful service costs longtime patronage.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0028105677346824056,
+            "BLANC-help": 0.011363636363636364,
+            "BLANC-tune": -0.011363636363636364,
+            "BERTScore": -0.13999728858470917,
+            "Semantic Similarity": 0.1638062298297882,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.031746030696649066,
+        "ROUGE-2": 0.011494252207689298,
+        "ROUGE-L": 0.031746030696649066,
+        "METEOR": 0.017711840628507298,
+        "BLANC-help": 0.03409090909090909,
+        "BLANC-tune": -0.011363636363636364,
+        "BERTScore": -0.0716724544763565,
+        "Semantic Similarity": 0.3155260980129242,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03571428571428571
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "This place was a joke we rented 1 jet ski and brought it back with one scratch. I have been waiting over two weeks for him to tell us how much he's going to charge us why they have held our deposit. Hardly picks up Phone never calls back rarely is there.... Looked at all the good reviews thought it was a good place but I've had the worst experience ever.. By far the worst company I've ever dealt with.. Be careful!",
+      "summaries": {
+        "Version1": {
+          "text": "Poor Service, Deposit Delay",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012135922330097089,
+            "BLANC-help": -0.022727272727272728,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.09318425506353378,
+            "Semantic Similarity": 0.39183613657951355,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Jet Ski Rental Nightmare",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.022782503037667073,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.022727272727272728,
+            "BERTScore": -0.05241347476840019,
+            "Semantic Similarity": 0.4427180290222168,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.038461538461538464
+          }
+        },
+        "Version3": {
+          "text": "Unprofessional Company Warning",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.006082725060827251,
+            "BLANC-help": -0.045454545454545456,
+            "BLANC-tune": 0.045454545454545456,
+            "BERTScore": -0.22974315285682678,
+            "Semantic Similarity": 0.2848043143749237,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.022782503037667073,
+        "BLANC-help": 0.0,
+        "BLANC-tune": 0.045454545454545456,
+        "BERTScore": -0.05241347476840019,
+        "Semantic Similarity": 0.4427180290222168,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.038461538461538464
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "We were out at the lake this weekend boating and towed a jet ski rented from Jet Action back to the dock.  Things happen, but when I called the office to help make arrangements for the couple \"stuck\" in the middle of the lake, I was treated rudely and told that \"these things don't break down so I don't know what to tell you.\"  No suggestions or assistance was offered. I would NOT rent here.  Unhelpful and very rude.",
+      "summaries": {
+        "Version1": {
+          "text": "Rude, Unhelpful Service - Jet Action",
+          "metrics": {
+            "ROUGE-1": 0.08333333180555559,
+            "ROUGE-2": 0.023809522689909348,
+            "ROUGE-L": 0.08333333180555559,
+            "METEOR": 0.0445508982035928,
+            "BLANC-help": 0.06976744186046512,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.06338021159172058,
+            "Semantic Similarity": 0.5589399337768555,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.037037037037037035
+          }
+        },
+        "Version2": {
+          "text": "Poor Customer Support at Jet Action",
+          "metrics": {
+            "ROUGE-1": 0.08333333180555559,
+            "ROUGE-2": 0.023809522689909348,
+            "ROUGE-L": 0.08333333180555559,
+            "METEOR": 0.0378447242206235,
+            "BLANC-help": 0.023255813953488372,
+            "BLANC-tune": 0.023255813953488372,
+            "BERTScore": -0.09007854759693146,
+            "Semantic Similarity": 0.38180848956108093,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Bad Experience with Jet Action Rentals",
+          "metrics": {
+            "ROUGE-1": 0.055555554027777815,
+            "ROUGE-2": 0.023809522689909348,
+            "ROUGE-L": 0.055555554027777815,
+            "METEOR": 0.022482014388489208,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.0,
+            "BERTScore": 0.004689284600317478,
+            "Semantic Similarity": 0.46197080612182617,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.08333333180555559,
+        "ROUGE-2": 0.023809522689909348,
+        "ROUGE-L": 0.08333333180555559,
+        "METEOR": 0.0445508982035928,
+        "BLANC-help": 0.06976744186046512,
+        "BLANC-tune": 0.023255813953488372,
+        "BERTScore": 0.004689284600317478,
+        "Semantic Similarity": 0.5589399337768555,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.037037037037037035
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "JET ACTION RENTALS destroyed my view on small Arizona business and tarnished my dreams of enjoying a great relaxing \"staycation\" with my family at the lake.  Today JET ACTION RENTALS stole my money and left me down creek without a paddle. Ive spent five years at war fighting for this country and the small business in it only to come home and find out the real terrorists have been here the whole time. Setting up shady businesses to take advantage of the hard working American people by stealing their money. I do not recommend this \"ESTABLISHMENT\", for the absence of a better word, to anybody that holds any respect for the values of small business. They lack trust, justice, dignity, and dependability.My family and I were passing by their establishment when we decided to swing in and try to get a fun toy to help us relax at the lake. The man that helped us pulled a number out of his hat on what we would pay. He said \"$100 for the first day $175 for the next two.\" Skeptical of our deal we asked to see a price book or any paperwork at all but the business had nothing to show us. We asked what the cancelation process is and he went on to tell us that \"as long as we canceled before the 48 hours prior to picking up the jet ski it would be a full refund.\" He said he needed my driver license and a credit card to hold the watercraft. He then took my cards and placed them out of my sight and logged all my info into an IPAD to be stored. He gave me my cards back and walked me out the front door telling me I can come back Thursday to collect my rentals.  Skeptical of the whole ordeal I had a friend call the establishment 20mins after I left to price out what it would cost him to rent the same days and the same equipment. He was told nearly $30 more each day. I decided to call around and check group on only to find that every other business was much cheaper to rent from and groupon had some jetskis going for as low as $85 a day.  I called JET ACTION back with in one hour of being at the store to tell him that I was going to go a different direction and would like to cancel my request to rent. He informed me that the deposit I spent to hold the reservation was Non-refundable and he said  \"it belongs to me now!\" I told him that I had no idea about that and even specifically asked before I put money down if I would receive a full refund, to which he replied, \"YES.\" He told me that that part of the agreement was emailed to me after we did our deal. I did get an email from him after I called telling me that it was non-refundable, but signed or saw nothing during purchase.",
+      "summaries": {
+        "Version1": {
+          "text": "Shady business steals customer's money.",
+          "metrics": {
+            "ROUGE-1": 0.015151514779901296,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.015151514779901296,
+            "METEOR": 0.005025125628140704,
+            "BLANC-help": -0.015625,
+            "BLANC-tune": -0.01171875,
+            "BERTScore": -0.05197449401021004,
+            "Semantic Similarity": 0.32023563981056213,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.02877697841726619
+          }
+        },
+        "Version2": {
+          "text": "Rental agreement deceitfully non-refundable.",
+          "metrics": {
+            "ROUGE-1": 0.007604562438086438,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.007604562438086438,
+            "METEOR": 0.004021717273275689,
+            "BLANC-help": -0.015625,
+            "BLANC-tune": -0.0390625,
+            "BERTScore": -0.1040012538433075,
+            "Semantic Similarity": 0.3060785233974457,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03597122302158273
+          }
+        },
+        "Version3": {
+          "text": "Unfair pricing, non-refundable deposit taken.",
+          "metrics": {
+            "ROUGE-1": 0.0075757572041437295,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0075757572041437295,
+            "METEOR": 0.006030150753768843,
+            "BLANC-help": -0.0078125,
+            "BLANC-tune": -0.01171875,
+            "BERTScore": -0.11775938421487808,
+            "Semantic Similarity": 0.30442601442337036,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03597122302158273
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.015151514779901296,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.015151514779901296,
+        "METEOR": 0.006030150753768843,
+        "BLANC-help": -0.0078125,
+        "BLANC-tune": -0.01171875,
+        "BERTScore": -0.05197449401021004,
+        "Semantic Similarity": 0.32023563981056213,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03597122302158273
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "This place sucks and they lie.My nephew and his bride were here from England and my wedding gift for them was a day out on the like with jet skis.I called on Saturday sept 8th and got some Aussie guy on the phone who took my reservation for 2 jet skis the following morning at 8am, and also took my credit card info.When we arrived at 8 am the guy in the shop had no idea about our reservation. He had to call the Aussie guy, who then must have remembered me from the night before. Well it was raining on that morning and boulder highway had a section closed due to a marathon race. So the guy in the shop told me that they were not renting that day due to the fact that lake mead was closed.I'd never heard of this before, but I was disappointed and left. My nephew and his bride were upset, but we moved on. I then saw a cop, by the closed section of the highway and asked him if lake mead was in fact closed. He said no and there were two other alternate routes to get there.So this skiwi rental place flat out lied to us. I ended up renting a couple of high powered skis from their competition who couldn't believe they did that to us, and he gave us a discount. Go with vegas jet ski rental. Much more professional and don't lie to their customers and tell them the lake is closed.Btw, the weather got beautiful later that day and we all had the best day.",
+      "summaries": {
+        "Version1": {
+          "text": "Lied about lake closure, lost business.",
+          "metrics": {
+            "ROUGE-1": 0.02547770627124835,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02547770627124835,
+            "METEOR": 0.009615384615384614,
+            "BLANC-help": 0.05185185185185185,
+            "BLANC-tune": 0.037037037037037035,
+            "BERTScore": -0.010200023651123047,
+            "Semantic Similarity": 0.28206074237823486,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.027777777777777776
+          }
+        },
+        "Version2": {
+          "text": "Jet ski rental misled customers.",
+          "metrics": {
+            "ROUGE-1": 0.038461537841058525,
+            "ROUGE-2": 0.007662834947226272,
+            "ROUGE-L": 0.038461537841058525,
+            "METEOR": 0.01716705157813703,
+            "BLANC-help": 0.05185185185185185,
+            "BLANC-tune": 0.014814814814814815,
+            "BERTScore": 0.048426274210214615,
+            "Semantic Similarity": 0.4515320658683777,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.05555555555555555
+          }
+        },
+        "Version3": {
+          "text": "Deceptive practices at water sport rental.",
+          "metrics": {
+            "ROUGE-1": 0.02547770627124835,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.02547770627124835,
+            "METEOR": 0.005771450557906887,
+            "BLANC-help": 0.05925925925925926,
+            "BLANC-tune": 0.007407407407407408,
+            "BERTScore": -0.12514153122901917,
+            "Semantic Similarity": 0.26270854473114014,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.013888888888888888
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.038461537841058525,
+        "ROUGE-2": 0.007662834947226272,
+        "ROUGE-L": 0.038461537841058525,
+        "METEOR": 0.01716705157813703,
+        "BLANC-help": 0.05925925925925926,
+        "BLANC-tune": 0.037037037037037035,
+        "BERTScore": 0.048426274210214615,
+        "Semantic Similarity": 0.4515320658683777,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.05555555555555555
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.03569115998652259,
+    "ROUGE-2": 0.008310526871680097,
+    "ROUGE-L": 0.03569115998652259,
+    "METEOR": 0.019939917170867075,
+    "BLANC-help": 0.03377892187721084,
+    "BLANC-tune": 0.014654694662695223,
+    "BERTScore": -0.02320403652265668,
+    "Semantic Similarity": 0.4555865228176117,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.04066279219867689
+  }
+}
