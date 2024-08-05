@@ -1,0 +1,5 @@
+Rank,LLMs,SUTD,Positive,Negative,Overall Average
+1,Phi3 ,0.138,0.1386,0.0871,0.1212
+2,Mistral,0.136,0.1428,0.069,0.1159
+3,Gemma,0.096,0.1079,0.0849,0.0963
+4,Llama3 8b,0.0736,0.078,0.0676,0.0731

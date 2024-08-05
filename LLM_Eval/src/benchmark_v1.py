@@ -151,7 +151,7 @@ def main():
 
     print(f"Results have been saved to {output_filename}")
 
-    # Optionally, print average highest scores to console
+    
     print("\n--- Average of Highest Scores Across All Reviews ---")
     for metric, avg_score in avg_highest_scores.items():
         print(f"{metric}: {avg_score:.4f}")

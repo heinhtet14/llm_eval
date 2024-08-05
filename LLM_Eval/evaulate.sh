@@ -2,10 +2,10 @@
 
 # Directory containing JSON files
 #JSON_DIR="/mnt/d/Internship_SUTD/llm_eval/LLM_Eval/data/llama3/"
-JSON_DIR="/mnt/d/Internship_SUTD/llm_eval/LLM_Eval/data/gemma/llm_response"
+JSON_DIR="/mnt/d/Internship_SUTD/llm_eval/LLM_Eval/data/phi3/llm_response/phase2"
 
 # Python script name
-PYTHON_SCRIPT="/mnt/d/Internship_SUTD/llm_eval/LLM_Eval/src/benchmark_v2.py"
+PYTHON_SCRIPT="/mnt/d/Internship_SUTD/llm_eval/LLM_Eval/src/benchmark_v1.py"
 
 # Check if Python script exists
 if [ ! -f "$PYTHON_SCRIPT" ]; then

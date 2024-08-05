@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "summaries": {
+        "Version1": {
+          "text": "Affordable-atmosphere-poor, recommended-food-good",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.00457875457875458,
+            "BLANC-help": 0.03508771929824561,
+            "BLANC-tune": -0.03508771929824561,
+            "BERTScore": -0.16253255307674408,
+            "Semantic Similarity": 0.4311271905899048,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07142857142857142
+          }
+        },
+        "Version2": {
+          "text": "Cheap-decor-dated, food-average-service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.00457875457875458,
+            "BLANC-help": 0.05263157894736842,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.26683610677719116,
+            "Semantic Similarity": 0.5122423768043518,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.047619047619047616
+          }
+        },
+        "Version3": {
+          "text": "Breakfast-worst-location",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.017543859649122806,
+            "BLANC-tune": -0.05263157894736842,
+            "BERTScore": -0.23712848126888275,
+            "Semantic Similarity": 0.6611177921295166,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07142857142857142
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.00457875457875458,
+        "BLANC-help": 0.05263157894736842,
+        "BLANC-tune": 0.0,
+        "BERTScore": -0.16253255307674408,
+        "Semantic Similarity": 0.6611177921295166,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.07142857142857142
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "summaries": {
+        "Version1": {
+          "text": "Cold-food, Bad-service, Pricey-meal",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012690355329949237,
+            "BLANC-help": -0.12195121951219512,
+            "BLANC-tune": 0.04878048780487805,
+            "BERTScore": -0.07957056909799576,
+            "Semantic Similarity": 0.4493376612663269,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03225806451612903
+          }
+        },
+        "Version2": {
+          "text": "Advocate-missing, Food-disappointing, Good-staff",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012690355329949237,
+            "BLANC-help": -0.12195121951219512,
+            "BLANC-tune": -0.04878048780487805,
+            "BERTScore": -0.1247813031077385,
+            "Semantic Similarity": 0.3408883213996887,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.06451612903225806
+          }
+        },
+        "Version3": {
+          "text": "BOGO-absent, Quality-questionable, Venue-reconsider",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.012690355329949237,
+            "BLANC-help": -0.04878048780487805,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.16276952624320984,
+            "Semantic Similarity": 0.35505402088165283,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03225806451612903
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.012690355329949237,
+        "BLANC-help": -0.04878048780487805,
+        "BLANC-tune": 0.04878048780487805,
+        "BERTScore": -0.07957056909799576,
+        "Semantic Similarity": 0.4493376612663269,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.06451612903225806
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "This is a so-called restaurant that doesn't do anything a restaurant should do except preparing food, the rest is left to the guest. Do you want water? Get up and go across the yard to get it. If you want a drink, go downstairs and pay in cash. Want to sit in dirty deckchairs in a dirty garden, enjoy yourself. The waiters are a little bit helpful as they bring you your food after you go to the window and pay cash for it. Kind of like New Orleans Hamburger and Seafood, but dirty and with live music (which is nice). It's a once in a lifetime experience for me... just once.",
+      "summaries": {
+        "Version1": {
+          "text": "Self-serviced Non-traditional",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.01818181818181818,
+            "BLANC-tune": 0.05454545454545454,
+            "BERTScore": -0.05710170045495033,
+            "Semantic Similarity": 0.21644453704357147,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Limited Restaurant Experience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.008591065292096219,
+            "BLANC-help": 0.05454545454545454,
+            "BLANC-tune": 0.10909090909090909,
+            "BERTScore": -0.04502285271883011,
+            "Semantic Similarity": 0.5691407918930054,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03125
+          }
+        },
+        "Version3": {
+          "text": "Dirty & Musical Eatery Service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.00857632933104631,
+            "BLANC-help": 0.03636363636363636,
+            "BLANC-tune": 0.07272727272727272,
+            "BERTScore": -0.13520805537700653,
+            "Semantic Similarity": 0.5121166706085205,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03125
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.008591065292096219,
+        "BLANC-help": 0.05454545454545454,
+        "BLANC-tune": 0.10909090909090909,
+        "BERTScore": -0.04502285271883011,
+        "Semantic Similarity": 0.5691407918930054,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.03125
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "My brother came to visit and we wanted to pick up a six pack of good beer for one night. We ended up staying and having a few while playing their Nintendo 64 (Super Smash Brothers which the owner said was donated by other customers). It's a great place with good food and really nice people. Should be a staple in the Northeast.",
+      "summaries": {
+        "Version1": {
+          "text": "SocialGathering, FoodN64",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": -0.05555555555555555,
+            "BLANC-tune": 0.027777777777777776,
+            "BERTScore": -0.21805314719676971,
+            "Semantic Similarity": 0.1820102334022522,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "BeerGamesCommunity",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.05555555555555555,
+            "BLANC-tune": 0.0,
+            "BERTScore": -0.2854318618774414,
+            "Semantic Similarity": 0.36024460196495056,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "FunFoodNintendoExperience",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0,
+            "BLANC-help": 0.027777777777777776,
+            "BLANC-tune": -0.05555555555555555,
+            "BERTScore": -0.19427192211151123,
+            "Semantic Similarity": 0.12651830911636353,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.0,
+        "BLANC-help": 0.05555555555555555,
+        "BLANC-tune": 0.027777777777777776,
+        "BERTScore": -0.19427192211151123,
+        "Semantic Similarity": 0.36024460196495056,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "summaries": {
+        "Version1": {
+          "text": "Pizza, Nice staff, BOGO deal",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.01447178002894356,
+            "BLANC-help": -0.02564102564102564,
+            "BLANC-tune": -0.07692307692307693,
+            "BERTScore": -0.07677670568227768,
+            "Semantic Similarity": 0.5508294105529785,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03571428571428571
+          }
+        },
+        "Version2": {
+          "text": "Friendly ambiance, Buy-one-free wings",
+          "metrics": {
+            "ROUGE-1": 0.03333333208888894,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03333333208888894,
+            "METEOR": 0.014513788098693756,
+            "BLANC-help": -0.07692307692307693,
+            "BLANC-tune": 0.05128205128205128,
+            "BERTScore": 0.05734078958630562,
+            "Semantic Similarity": 0.25707677006721497,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.07142857142857142
+          }
+        },
+        "Version3": {
+          "text": "Good food, Amiable service, Saucy offerings",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.01445086705202312,
+            "BLANC-help": -0.05128205128205128,
+            "BLANC-tune": -0.05128205128205128,
+            "BERTScore": -0.10640734434127808,
+            "Semantic Similarity": 0.3685038685798645,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03571428571428571
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.03333333208888894,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.03333333208888894,
+        "METEOR": 0.014513788098693756,
+        "BLANC-help": -0.02564102564102564,
+        "BLANC-tune": 0.05128205128205128,
+        "BERTScore": 0.05734078958630562,
+        "Semantic Similarity": 0.5508294105529785,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.07142857142857142
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "Just started going to Sushi Nara this month (they only recently opened). I love this place; It's clean, the staff is friendly and courteous, and the service is quick. The sushi is always delicious (I've been here 3 times) and the prices are reasonable. In fact, my husband stopped by for take out this week, bought 4 sushi rolls and the total price was $24. That's incredible. I love the freshness of the food and there is a huge variety. Everyone on the east side, check out this place!",
+      "summaries": {
+        "Version1": {
+          "text": "Fresh Sushi, Affordable Prices",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.02512562814070352,
+            "BLANC-help": -0.03773584905660377,
+            "BLANC-tune": -0.018867924528301886,
+            "BERTScore": 0.007990995422005653,
+            "Semantic Similarity": 0.7494688034057617,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.029411764705882353
+          }
+        },
+        "Version2": {
+          "text": "Clean Environment, Friendly Service",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.02010050251256281,
+            "BLANC-help": 0.03773584905660377,
+            "BLANC-tune": -0.018867924528301886,
+            "BERTScore": -0.045645829290151596,
+            "Semantic Similarity": 0.2705378830432892,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "Variety & Quality Service, East Side Recommendation",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.0372745490981964,
+            "BLANC-help": -0.018867924528301886,
+            "BLANC-tune": -0.018867924528301886,
+            "BERTScore": -0.05942974239587784,
+            "Semantic Similarity": 0.28005513548851013,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.0372745490981964,
+        "BLANC-help": 0.03773584905660377,
+        "BLANC-tune": -0.018867924528301886,
+        "BERTScore": 0.007990995422005653,
+        "Semantic Similarity": 0.7494688034057617,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.029411764705882353
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.005555555348148156,
+    "ROUGE-2": 0.0,
+    "ROUGE-L": 0.005555555348148156,
+    "METEOR": 0.012941418732948365,
+    "BLANC-help": 0.0210078207765131,
+    "BLANC-tune": 0.036343883571219045,
+    "BERTScore": -0.06934435199946165,
+    "Semantic Similarity": 0.5566898435354233,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.04467250609921388
+  }
+}

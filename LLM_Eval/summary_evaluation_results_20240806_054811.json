@@ -1,0 +1,394 @@
+{
+  "detailed_results": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "summaries": {
+        "Version1": {
+          "text": "Affordable meals, outdated ambiance.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.009132420091324202,
+            "BLANC-help": 0.017543859649122806,
+            "BLANC-tune": -0.03508771929824561,
+            "BERTScore": -0.03745565190911293,
+            "Semantic Similarity": 0.48262476921081543,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Great service, average dishes served.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.013686131386861316,
+            "BLANC-help": -0.017543859649122806,
+            "BLANC-tune": -0.05263157894736842,
+            "BERTScore": -0.05459566041827202,
+            "Semantic Similarity": 0.5565263032913208,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.023809523809523808
+          }
+        },
+        "Version3": {
+          "text": "Tasty desserts overshadow bland cuisine.",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.009132420091324202,
+            "BLANC-help": 0.03508771929824561,
+            "BLANC-tune": -0.03508771929824561,
+            "BERTScore": -0.0815553367137909,
+            "Semantic Similarity": 0.5227953195571899,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.023809523809523808
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.013686131386861316,
+        "BLANC-help": 0.03508771929824561,
+        "BLANC-tune": -0.03508771929824561,
+        "BERTScore": -0.03745565190911293,
+        "Semantic Similarity": 0.5565263032913208,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.023809523809523808
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "This is a so-called restaurant that doesn't do anything a restaurant should do except preparing food, the rest is left to the guest. Do you want water? Get up and go across the yard to get it. If you want a drink, go downstairs and pay in cash. Want to sit in dirty deckchairs in a dirty garden, enjoy yourself. The waiters are a little bit helpful as they bring you your food after you go to the window and pay cash for it. Kind of like New Orleans Hamburger and Seafood, but dirty and with live music (which is nice). It's a once in a lifetime experience for me... just once.",
+      "summaries": {
+        "Version1": {
+          "text": "Unconventional eatery, self-service focuses",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.004288164665523155,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.03636363636363636,
+            "BERTScore": -0.1207972839474678,
+            "Semantic Similarity": 0.49912458658218384,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "Limited services, guests manage tasks",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.008568980291345328,
+            "BLANC-help": 0.0,
+            "BLANC-tune": 0.01818181818181818,
+            "BERTScore": -0.034447770565748215,
+            "Semantic Similarity": 0.3625217080116272,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.03125
+          }
+        },
+        "Version3": {
+          "text": "Restaurant experience, guests handle chores",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.017137960582690657,
+            "BLANC-help": 0.10909090909090909,
+            "BLANC-tune": 0.05454545454545454,
+            "BERTScore": -0.019005058333277702,
+            "Semantic Similarity": 0.6541555523872375,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.09375
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.017137960582690657,
+        "BLANC-help": 0.10909090909090909,
+        "BLANC-tune": 0.05454545454545454,
+        "BERTScore": -0.019005058333277702,
+        "Semantic Similarity": 0.6541555523872375,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.09375
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "My brother came to visit and we wanted to pick up a six pack of good beer for one night. We ended up staying and having a few while playing their Nintendo 64 (Super Smash Brothers which the owner said was donated by other customers). It's a great place with good food and really nice people. Should be a staple in the Northeast.",
+      "summaries": {
+        "Version1": {
+          "text": "Brother visits, enjoys Smash, food, beer.",
+          "metrics": {
+            "ROUGE-1": 0.033333331533333434,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.033333331533333434,
+            "METEOR": 0.046875,
+            "BLANC-help": 0.05555555555555555,
+            "BLANC-tune": 0.1111111111111111,
+            "BERTScore": 0.023841964080929756,
+            "Semantic Similarity": 0.5760611295700073,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.16
+          }
+        },
+        "Version2": {
+          "text": "Nintendo nights, good company, tasty brews.",
+          "metrics": {
+            "ROUGE-1": 0.06666666486666671,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.06666666486666671,
+            "METEOR": 0.03129890453834116,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.027777777777777776,
+            "BERTScore": 0.13982529938220978,
+            "Semantic Similarity": 0.5172566175460815,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08
+          }
+        },
+        "Version3": {
+          "text": "Visit yields fun gameplay, great cuisine.",
+          "metrics": {
+            "ROUGE-1": 0.033333331533333434,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.033333331533333434,
+            "METEOR": 0.03134796238244514,
+            "BLANC-help": 0.027777777777777776,
+            "BLANC-tune": 0.027777777777777776,
+            "BERTScore": 0.09295964241027832,
+            "Semantic Similarity": 0.4356110692024231,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.08
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.06666666486666671,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.06666666486666671,
+        "METEOR": 0.046875,
+        "BLANC-help": 0.05555555555555555,
+        "BLANC-tune": 0.1111111111111111,
+        "BERTScore": 0.13982529938220978,
+        "Semantic Similarity": 0.5760611295700073,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.16
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "summaries": {
+        "Version1": {
+          "text": "Creamy soup, pat thai delights.",
+          "metrics": {
+            "ROUGE-1": 0.05714285581632657,
+            "ROUGE-2": 0.02040816248229907,
+            "ROUGE-L": 0.05714285581632657,
+            "METEOR": 0.04355351265463625,
+            "BLANC-help": 0.05,
+            "BLANC-tune": 0.05,
+            "BERTScore": 0.11187606304883957,
+            "Semantic Similarity": 0.6390174627304077,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.058823529411764705
+          }
+        },
+        "Version2": {
+          "text": "Coconut richness, flavorful noodles.",
+          "metrics": {
+            "ROUGE-1": 0.028985506154169335,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.028985506154169335,
+            "METEOR": 0.02044989775051125,
+            "BLANC-help": 0.03333333333333333,
+            "BLANC-tune": 0.13333333333333333,
+            "BERTScore": 0.06434611231088638,
+            "Semantic Similarity": 0.5437805652618408,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.058823529411764705
+          }
+        },
+        "Version3": {
+          "text": "Herb balance, chicken perfectly cooked.",
+          "metrics": {
+            "ROUGE-1": 0.028571427244898025,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.028571427244898025,
+            "METEOR": 0.02042900919305414,
+            "BLANC-help": -0.05,
+            "BLANC-tune": 0.016666666666666666,
+            "BERTScore": 0.050555840134620667,
+            "Semantic Similarity": 0.39586472511291504,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.058823529411764705
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.05714285581632657,
+        "ROUGE-2": 0.02040816248229907,
+        "ROUGE-L": 0.05714285581632657,
+        "METEOR": 0.04355351265463625,
+        "BLANC-help": 0.05,
+        "BLANC-tune": 0.13333333333333333,
+        "BERTScore": 0.11187606304883957,
+        "Semantic Similarity": 0.6390174627304077,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.058823529411764705
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "summaries": {
+        "Version1": {
+          "text": "Pizza close, friendly staff, sauce on wings.",
+          "metrics": {
+            "ROUGE-1": 0.09523809326278664,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.09523809326278664,
+            "METEOR": 0.04322766570605186,
+            "BLANC-help": 0.05128205128205128,
+            "BLANC-tune": -0.02564102564102564,
+            "BERTScore": 0.10895505547523499,
+            "Semantic Similarity": 0.5520631074905396,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.17857142857142858
+          }
+        },
+        "Version2": {
+          "text": "Nice people, buy one offer, pizza enjoyment.",
+          "metrics": {
+            "ROUGE-1": 0.06349206151675492,
+            "ROUGE-2": 0.026666665194666747,
+            "ROUGE-L": 0.06349206151675492,
+            "METEOR": 0.06910545197906251,
+            "BLANC-help": 0.02564102564102564,
+            "BLANC-tune": -0.05128205128205128,
+            "BERTScore": 0.07694727927446365,
+            "Semantic Similarity": 0.6149259805679321,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.17857142857142858
+          }
+        },
+        "Version3": {
+          "text": "Hotel nearby, great deal, flavorful hot wings.",
+          "metrics": {
+            "ROUGE-1": 0.06349206151675492,
+            "ROUGE-2": 0.026666665194666747,
+            "ROUGE-L": 0.06349206151675492,
+            "METEOR": 0.04547910662824207,
+            "BLANC-help": 0.10256410256410256,
+            "BLANC-tune": 0.02564102564102564,
+            "BERTScore": 0.13099271059036255,
+            "Semantic Similarity": 0.5884793996810913,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.10714285714285714
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.09523809326278664,
+        "ROUGE-2": 0.026666665194666747,
+        "ROUGE-L": 0.09523809326278664,
+        "METEOR": 0.06910545197906251,
+        "BLANC-help": 0.10256410256410256,
+        "BLANC-tune": 0.02564102564102564,
+        "BERTScore": 0.13099271059036255,
+        "Semantic Similarity": 0.6149259805679321,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.17857142857142858
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "Just started going to Sushi Nara this month (they only recently opened). I love this place; It's clean, the staff is friendly and courteous, and the service is quick. The sushi is always delicious (I've been here 3 times) and the prices are reasonable. In fact, my husband stopped by for take out this week, bought 4 sushi rolls and the total price was $24. That's incredible. I love the freshness of the food and there is a huge variety. Everyone on the east side, check out this place!",
+      "summaries": {
+        "Version1": {
+          "text": "Fresh Sushi, Quick Service, Friendly Staff",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.04008016032064128,
+            "BLANC-help": -0.018867924528301886,
+            "BLANC-tune": -0.03773584905660377,
+            "BERTScore": 0.09550347179174423,
+            "Semantic Similarity": 0.7471308708190918,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version2": {
+          "text": "East Side Delight, Prices Affordable, Quality Food",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.048007190864333714,
+            "BLANC-help": 0.05660377358490566,
+            "BLANC-tune": 0.09433962264150944,
+            "BERTScore": -0.032816868275403976,
+            "Semantic Similarity": 0.4252849817276001,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        },
+        "Version3": {
+          "text": "New Opening, Variety Abundant, Cleanliness Assured",
+          "metrics": {
+            "ROUGE-1": 0.0,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.0,
+            "METEOR": 0.025050100200400806,
+            "BLANC-help": 0.0,
+            "BLANC-tune": -0.11320754716981132,
+            "BERTScore": -0.07202808558940887,
+            "Semantic Similarity": 0.3182934522628784,
+            "Sentiment Match": 1.0,
+            "Key Concept Coverage": 0.0
+          }
+        }
+      },
+      "highest_scores": {
+        "ROUGE-1": 0.0,
+        "ROUGE-2": 0.0,
+        "ROUGE-L": 0.0,
+        "METEOR": 0.048007190864333714,
+        "BLANC-help": 0.05660377358490566,
+        "BLANC-tune": 0.09433962264150944,
+        "BERTScore": 0.09550347179174423,
+        "Semantic Similarity": 0.7471308708190918,
+        "Sentiment Match": 1.0,
+        "Key Concept Coverage": 0.0
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "ROUGE-1": 0.03650793565762999,
+    "ROUGE-2": 0.007845804612827635,
+    "ROUGE-L": 0.03650793565762999,
+    "METEOR": 0.03972754124459741,
+    "BLANC-help": 0.06815034334895308,
+    "BLANC-tune": 0.06398047132903141,
+    "BERTScore": 0.07028947242846091,
+    "Semantic Similarity": 0.6313028832276663,
+    "Sentiment Match": 1.0,
+    "Key Concept Coverage": 0.08582574696545285
+  }
+}
