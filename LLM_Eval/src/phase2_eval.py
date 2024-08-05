@@ -18,19 +18,26 @@ def extract_reviews(file_path, num_reviews=100):
                     break
     return reviews
 
-def analyze_review(review):
+def analyze_review(review,code1,code2):
     role = """
     You are a helpful qualitative
     analysis assistant, aiding researchers in
-    developing codes that can be utilized in
-    subsequent stages, including discussions
-    for creating codebooks and final coding
-    processes
+    developing final codes that can be utilized
+    in subsequent stages, including final coding
+    processes.
     """
 
     prompt = f"""
-    Please create three general
-    summaries for {review} (within six-word);
+    Please create three concise,
+    non-repetitive, and general six-word code
+    combinations for the text below using code1
+    and code2:
+
+    text is {review}
+
+    code1 is {code1}
+
+    code2 is {code2}
 
     Requirements:
     1. 6 words or fewer;
@@ -38,10 +45,12 @@ def analyze_review(review):
     3. Be general;
     4. Three distinct versions
 
-    You must answer in exactly this format:
-    Version1: [your six-word summary here]
-    Version2: [your six-word summary here]
-    Version3: [your six-word summary here]
+    You should answer like this:
+
+    Here is the format of results:
+    Version1:
+    Version2:
+    Version3:
     """
 
     response = ollama.chat(model='phi3:medium', messages=[
@@ -86,7 +95,7 @@ output_file = f'analysis_results_{timestamp}.json'
 for i, review in enumerate(reviews, 1):
     print(f"\nAnalyzing Review {i}:")
     print(review[:100] + "..." if len(review) > 100 else review)
-    result = analyze_review(review)
+    result = analyze_review(review,code1,code2)
     print("\nAnalysis Result:")
     print(result)
     logging.debug(f"Raw result from AI: {result}")

@@ -1,5 +1,5 @@
-import nltk
 import json
+import nltk
 import sys
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
@@ -8,6 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
 from scipy.spatial.distance import cosine
 import spacy
+from datetime import datetime
 
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
@@ -51,21 +52,14 @@ def clarity_score(code):
     return 1 / (1 + avg_word_length)  # Higher for shorter average word length
 
 def evaluate_short_code_automated(code, full_text):
-    relevance = relevance_score(code, full_text)
-    informativeness = informativeness_score(code, full_text)
-    sentiment_acc = sentiment_accuracy(code, full_text)
-    specificity = specificity_score(code, full_text)
-    clarity = clarity_score(code)
-
     return {
-        "Relevance": relevance,
-        "Informativeness": informativeness,
-        "Sentiment Accuracy": sentiment_acc,
-        "Specificity": specificity,
-        "Clarity": clarity
+        "Relevance": relevance_score(code, full_text),
+        "Informativeness": informativeness_score(code, full_text),
+        "Sentiment Accuracy": sentiment_accuracy(code, full_text),
+        "Specificity": specificity_score(code, full_text),
+        "Clarity": clarity_score(code)
     }
-    
-# Function to interpret scores
+
 def interpret_scores(scores):
     interpretations = {
         "Relevance": ["Not Relevant", "Slightly Relevant", "Moderately Relevant", "Highly Relevant"],
@@ -81,25 +75,79 @@ def interpret_scores(scores):
         results[metric] = interpretations[metric][index]
     return results
 
-def main():
+def calculate_average_highest_scores(results):
+    total_highest_scores = {
+        "Relevance": 0,
+        "Informativeness": 0,
+        "Sentiment Accuracy": 0,
+        "Specificity": 0,
+        "Clarity": 0
+    }
     
+    review_count = len(results)
+    
+    for review in results:
+        for metric in total_highest_scores.keys():
+            highest_score = max(
+                review["versions"]["Version1"]["scores"][metric],
+                review["versions"]["Version2"]["scores"][metric],
+                review["versions"]["Version3"]["scores"][metric]
+            )
+            total_highest_scores[metric] += highest_score
+    
+    average_highest_scores = {
+        metric: score / review_count
+        for metric, score in total_highest_scores.items()
+    }
+    
+    return average_highest_scores
+
+def process_reviews(input_file):
+    with open(input_file, 'r') as f:
+        data = json.load(f)
+    
+    results = []
+    for i, review in enumerate(data):
+        review_result = {
+            "review_id": i + 1,
+            "review_text": review["review"],
+            "versions": {}
+        }
+        for version in ["Version1", "Version2", "Version3"]:
+            scores = evaluate_short_code_automated(review[version], review["review"])
+            interpretations = interpret_scores(scores)
+            review_result["versions"][version] = {
+                "text": review[version],
+                "scores": scores,
+                "interpretations": interpretations
+            }
+        results.append(review_result)
+    
+    average_highest_scores = calculate_average_highest_scores(results)
+    
+    return results, average_highest_scores
+
+def save_results(results, average_highest_scores, output_file):
+    output_data = {
+        "individual_reviews": results,
+        "average_highest_scores": average_highest_scores
+    }
+    with open(output_file, 'w') as f:
+        json.dump(output_data, f, indent=2)
+
+if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python summary_evaluation.py <input_json_file>")
+        print("Usage: python process_reviews.py <input_json_file>")
         sys.exit(1)
     
     input_file = sys.argv[1]
-        
-    with open(input_file, 'r') as file:
-        data = json.load(file)
-    # Example usage
-    full_text = "This restaurant offers a wide variety of delicious dishes. The service was excellent and the atmosphere was cozy. Highly recommended for a nice dinner out."
-    code = "Excellent dining experience"
-
-    results = evaluate_short_code_automated(code, full_text)
-    print("\nAutomated Evaluation Results:")
-    for metric, score in results.items():
-        print(f"{metric}: {score:.4f}")
-    interpreted_results = interpret_scores(results)
-    print("\nInterpreted Results:")
-    for metric, interpretation in interpreted_results.items():
-        print(f"{metric}: {interpretation}")
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = f"evaluation_results_{timestamp}.json"
+    
+    results, average_highest_scores = process_reviews(input_file)
+    save_results(results, average_highest_scores, output_file)
+    print(f"Results saved to {output_file}")
+    
+    print("\nAverage Highest Scores:")
+    for metric, score in average_highest_scores.items():
+        print(f"  {metric}: {score:.4f}")

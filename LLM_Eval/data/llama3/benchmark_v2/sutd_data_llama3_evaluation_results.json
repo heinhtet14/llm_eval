@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "versions": {
+        "Version1": {
+          "text": "Mixed Bag",
+          "scores": {
+            "Relevance": 0.15673671520199595,
+            "Informativeness": 0.20579830217101056,
+            "Sentiment Accuracy": 0.47550000000000003,
+            "Specificity": 0.0,
+            "Clarity": 0.2
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Not Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Affordable but Flawed Experience",
+          "scores": {
+            "Relevance": 0.20357990563055406,
+            "Informativeness": 0.2910427500435995,
+            "Sentiment Accuracy": 0.47550000000000003,
+            "Specificity": 0.0,
+            "Clarity": 0.12121212121212122
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Hits and Misses at a Price",
+          "scores": {
+            "Relevance": 0.17049935509404124,
+            "Informativeness": 0.32199618896424126,
+            "Sentiment Accuracy": 0.7018,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.2222222222222222
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "versions": {
+        "Version1": {
+          "text": "Burger fail, pizza okay",
+          "scores": {
+            "Relevance": 0.5724990702256236,
+            "Informativeness": 0.2987566285739042,
+            "Sentiment Accuracy": -0.03699999999999992,
+            "Specificity": 0.6,
+            "Clarity": 0.17391304347826086
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Mixed experience, room for improvement",
+          "scores": {
+            "Relevance": 0.20605261002654995,
+            "Informativeness": 0.3364732072044405,
+            "Sentiment Accuracy": 0.8036,
+            "Specificity": 0.2,
+            "Clarity": 0.13157894736842105
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Disappointing visit, seeking better options",
+          "scores": {
+            "Relevance": 0.31531019349195777,
+            "Informativeness": 0.3364732072044405,
+            "Sentiment Accuracy": 0.26759999999999995,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.11627906976744186
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "versions": {
+        "Version1": {
+          "text": "Delightful Thai cuisine experience awaited.",
+          "scores": {
+            "Relevance": 0.5981750672904905,
+            "Informativeness": 0.3411989193498891,
+            "Sentiment Accuracy": 0.6108,
+            "Specificity": 0.5,
+            "Clarity": 0.11627906976744186
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Satisfying flavors in a bowl.",
+          "scores": {
+            "Relevance": 0.47943666386626027,
+            "Informativeness": 0.30897109572938897,
+            "Sentiment Accuracy": 0.49770000000000003,
+            "Specificity": 0.25,
+            "Clarity": 0.1724137931034483
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Authentic taste buds pleased easily.",
+          "scores": {
+            "Relevance": 0.37987461437314884,
+            "Informativeness": 0.34544018656675435,
+            "Sentiment Accuracy": 0.6875,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.1388888888888889
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "versions": {
+        "Version1": {
+          "text": "Convenient location, friendly staff",
+          "scores": {
+            "Relevance": 0.24969573444682525,
+            "Informativeness": 0.30399584010685515,
+            "Sentiment Accuracy": 0.5238,
+            "Specificity": 0.2,
+            "Clarity": 0.11428571428571428
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Good experience with buy one free",
+          "scores": {
+            "Relevance": 0.2656400672360375,
+            "Informativeness": 0.37058833018761533,
+            "Sentiment Accuracy": 0.765,
+            "Specificity": 0.6,
+            "Clarity": 0.1764705882352941
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Decent food, great customer service found",
+          "scores": {
+            "Relevance": 0.41433957185212367,
+            "Informativeness": 0.37495275590532373,
+            "Sentiment Accuracy": 0.6548,
+            "Specificity": 0.0,
+            "Clarity": 0.14634146341463417
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "We had a party of 6 here for hibachi. Our waitress put our separate sushi orders on one plate so we couldn't really tell who was who and forgot several items on one order. I understand that I made mistakes but the restaurant was very quiet so we were a bit surprised. Usually hibachi is a fun lively experience and our chef said maybe three words but he cooked very well, his name was Francisco. The service was lazy, the food was pretty good and I hope it was just a free night here. But for the money I wouldn't go again.",
+      "versions": {
+        "Version1": {
+          "text": "Disappointing hibachi experience with service issues",
+          "scores": {
+            "Relevance": 0.4802152060392083,
+            "Informativeness": 0.3449396140220945,
+            "Sentiment Accuracy": -0.4757,
+            "Specificity": 0.6,
+            "Clarity": 0.11320754716981134
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Quiet evening at a usually lively spot",
+          "scores": {
+            "Relevance": 0.25461133924532764,
+            "Informativeness": 0.3453367065581631,
+            "Sentiment Accuracy": 0.4586,
+            "Specificity": 0.6,
+            "Clarity": 0.1794871794871795
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Subpar service mars decent food quality",
+          "scores": {
+            "Relevance": 0.29860359041907714,
+            "Informativeness": 0.34571985536827504,
+            "Sentiment Accuracy": 0.018199999999999994,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.15
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "I enjoyed \"Pleiades Rising\" for several reasons. A strong, 17 year old narrator describes her adventurous summer before beginning college in southern California. An archeological discovery along with astronomical and spiritual interventions propel Maggie and her friend Will to travel to Mexico. As the mystery behind their find deepens and the action increases, I felt that I was actually along for the ride. Just the right touch of love interest to pull in young romantics.",
+      "versions": {
+        "Version1": {
+          "text": "Young adult's summer adventure unfolds globally.",
+          "scores": {
+            "Relevance": 0.44439918906451625,
+            "Informativeness": 0.3473971885732903,
+            "Sentiment Accuracy": 0.3488,
+            "Specificity": 0.375,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Archeological discovery sparks international mystery quest.",
+          "scores": {
+            "Relevance": 0.30967804093552764,
+            "Informativeness": 0.3470029716831294,
+            "Sentiment Accuracy": 0.03059999999999996,
+            "Specificity": 0.5714285714285714,
+            "Clarity": 0.10169491525423728
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Teenager's journey blends love, danger, and secrets.",
+          "scores": {
+            "Relevance": 0.4051445085204092,
+            "Informativeness": 0.3713825801580026,
+            "Sentiment Accuracy": 0.2329,
+            "Specificity": 0.3,
+            "Clarity": 0.1568627450980392
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.4522013350170861,
+    "Informativeness": 0.34932746236117285,
+    "Sentiment Accuracy": 0.6275499999999999,
+    "Specificity": 0.5341269841269841,
+    "Clarity": 0.18022826193740737
+  }
+}

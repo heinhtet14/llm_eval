@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "Stopped here on my way up north and picked up a paddleboard. Staff was super attentive and knowledgeable while helping me get correct board for my size. I will definitely go back.",
+      "versions": {
+        "Version1": {
+          "text": "Excellent customer service.",
+          "scores": {
+            "Relevance": 0.1539165963472202,
+            "Informativeness": 0.34641016151377557,
+            "Sentiment Accuracy": 0.7874,
+            "Specificity": 0.25,
+            "Clarity": 0.1111111111111111
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Attentive staff.",
+          "scores": {
+            "Relevance": 0.26036934616570084,
+            "Informativeness": 0.2844063501936467,
+            "Sentiment Accuracy": 0.21550000000000002,
+            "Specificity": 1.0,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Knowledgeable staff, perfect board selection.",
+          "scores": {
+            "Relevance": 0.4603451173636137,
+            "Informativeness": 0.44447975110425064,
+            "Sentiment Accuracy": 0.7874,
+            "Specificity": 0.5714285714285714,
+            "Clarity": 0.11363636363636363
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We rolled in a little after 7; they close at 8. I needed a roof rack for my 240; hard to find. Staff patiently went through options and brought examples out. We rolled away with a sweet rack setup and installed; a little after 8.  Couldn't have been better.",
+      "versions": {
+        "Version1": {
+          "text": "Pleasant customer service",
+          "scores": {
+            "Relevance": 0.16272489180731387,
+            "Informativeness": 0.30754927348581707,
+            "Sentiment Accuracy": 0.5393999999999999,
+            "Specificity": 0.0,
+            "Clarity": 0.11538461538461536
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Easy roof rack selection",
+          "scores": {
+            "Relevance": 0.5796299475986756,
+            "Informativeness": 0.3493076504641901,
+            "Sentiment Accuracy": 0.6095999999999999,
+            "Specificity": 0.5,
+            "Clarity": 0.16
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Seamless transaction",
+          "scores": {
+            "Relevance": 0.16288700301358983,
+            "Informativeness": 0.2511129302679758,
+            "Sentiment Accuracy": 0.95,
+            "Specificity": 0.0,
+            "Clarity": 0.09523809523809523
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "this little place was great! fun day with great jet skis...the older couple is extremely nice and made for an affordable fun time at the lake. I would highly recommend giving these guys a chance! they have the trailer hitch if you need and include many sized life jackets.",
+      "versions": {
+        "Version1": {
+          "text": "Excellent experience",
+          "scores": {
+            "Relevance": 0.26640639560144863,
+            "Informativeness": 0.22821773229381911,
+            "Sentiment Accuracy": 0.5957,
+            "Specificity": 0.0,
+            "Clarity": 0.09523809523809523
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Not Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Affordable fun at the lake",
+          "scores": {
+            "Relevance": 0.5716008402882177,
+            "Informativeness": 0.353234136681949,
+            "Sentiment Accuracy": 0.5344000000000001,
+            "Specificity": 1.0,
+            "Clarity": 0.18518518518518517
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Friendly hosts, great jet skis",
+          "scores": {
+            "Relevance": 0.6327759728929367,
+            "Informativeness": 0.35533647158676995,
+            "Sentiment Accuracy": 0.8312,
+            "Specificity": 0.5,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Best of the best. Awesome prices. Great running skis. Super Duper friendly as can be. Very nice, down to earth people. Life jackets, trailer, anchor, ties...everything you need supplied. I'll definitely be back. Maybe rent one of their boats. I can't say enough good things about this company...",
+      "versions": {
+        "Version1": {
+          "text": "Excellent service",
+          "scores": {
+            "Relevance": 0.41879488653653385,
+            "Informativeness": 0.22047927592204955,
+            "Sentiment Accuracy": 0.59,
+            "Specificity": 0.0,
+            "Clarity": 0.1111111111111111
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Not Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Friendly and helpful staff",
+          "scores": {
+            "Relevance": 0.2943854431753723,
+            "Informativeness": 0.3095117475552793,
+            "Sentiment Accuracy": 0.7365,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.14814814814814814
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Comprehensive equipment supply",
+          "scores": {
+            "Relevance": 0.3414859312045644,
+            "Informativeness": 0.2700308624336612,
+            "Sentiment Accuracy": 0.2681,
+            "Specificity": 0.0,
+            "Clarity": 0.0967741935483871
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Stopped by to check out a GPS unit and grab a few things. I was greeted with a smile and Ashley the cashier was very helpful and friendly!! Still love this place!! Always a great experience!",
+      "versions": {
+        "Version1": {
+          "text": "Warm welcome and friendly service.",
+          "scores": {
+            "Relevance": 0.48401747485564395,
+            "Informativeness": 0.4317804236354812,
+            "Sentiment Accuracy": 0.834,
+            "Specificity": 0.4,
+            "Clarity": 0.14705882352941177
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Pleasant interaction with cashier.",
+          "scores": {
+            "Relevance": 0.46889547722898395,
+            "Informativeness": 0.39967520433688397,
+            "Sentiment Accuracy": 0.5482,
+            "Specificity": 0.5,
+            "Clarity": 0.11764705882352941
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Positive customer experience.",
+          "scores": {
+            "Relevance": 0.5046793673856897,
+            "Informativeness": 0.34606978996837184,
+            "Sentiment Accuracy": 0.595,
+            "Specificity": 0.5,
+            "Clarity": 0.10344827586206898
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "This our favorite lake on which to take the boat out. The obvious reason being, it's the only one on the West side. However, in addition to convenience, we love it because it is so large. There is plenty of room for everyone. So it's easy to find a cove, drop anchor and just chill, without a million people all around you.In addition, the main boat ramp is nice and wide, so there's rarely a wait, and there is plenty of parking. There is another ramp available as well, but we have never used it.",
+      "versions": {
+        "Version1": {
+          "text": "Ideal size and accessibility.",
+          "scores": {
+            "Relevance": 0.27131785639955375,
+            "Informativeness": 0.3000747796044443,
+            "Sentiment Accuracy": 0.7625,
+            "Specificity": 0.25,
+            "Clarity": 0.13793103448275862
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Spacious and uncrowded.",
+          "scores": {
+            "Relevance": 0.37053887440746025,
+            "Informativeness": 0.259298132196301,
+            "Sentiment Accuracy": 0.2358,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.13043478260869565
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Convenient and tranquil.",
+          "scores": {
+            "Relevance": 0.20479856300936072,
+            "Informativeness": 0.259298132196301,
+            "Sentiment Accuracy": 0.2874,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.49446069436415163,
+    "Informativeness": 0.3650818039917359,
+    "Sentiment Accuracy": 0.8169333333333334,
+    "Specificity": 0.6111111111111112,
+    "Clarity": 0.15055386522425063
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "This place was a joke we rented 1 jet ski and brought it back with one scratch. I have been waiting over two weeks for him to tell us how much he's going to charge us why they have held our deposit. Hardly picks up Phone never calls back rarely is there.... Looked at all the good reviews thought it was a good place but I've had the worst experience ever.. By far the worst company I've ever dealt with.. Be careful!",
+      "versions": {
+        "Version1": {
+          "text": "Poor customer service experienced here",
+          "scores": {
+            "Relevance": 0.43308197013985383,
+            "Informativeness": 0.2979217958621088,
+            "Sentiment Accuracy": 0.6289,
+            "Specificity": 0.0,
+            "Clarity": 0.12820512820512822
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Disappointing rental experience reported",
+          "scores": {
+            "Relevance": 0.4985751748020799,
+            "Informativeness": 0.2644605332460803,
+            "Sentiment Accuracy": 0.6461,
+            "Specificity": 0.25,
+            "Clarity": 0.0975609756097561
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Bad business reputation found",
+          "scores": {
+            "Relevance": 0.26139918060514145,
+            "Informativeness": 0.2664693550105963,
+            "Sentiment Accuracy": 0.6945,
+            "Specificity": 0.0,
+            "Clarity": 0.13333333333333333
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We were out at the lake this weekend boating and towed a jet ski rented from Jet Action back to the dock.  Things happen, but when I called the office to help make arrangements for the couple \"stuck\" in the middle of the lake, I was treated rudely and told that \"these things don't break down so I don't know what to tell you.\"  No suggestions or assistance was offered. I would NOT rent here.  Unhelpful and very rude.",
+      "versions": {
+        "Version1": {
+          "text": "Poor customer service prevails",
+          "scores": {
+            "Relevance": 0.16528590052764391,
+            "Informativeness": 0.3033776259546437,
+            "Sentiment Accuracy": 0.637,
+            "Specificity": 0.0,
+            "Clarity": 0.12903225806451613
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Unhelpful and rude experience guaranteed",
+          "scores": {
+            "Relevance": 0.33899427199920273,
+            "Informativeness": 0.33355480762547196,
+            "Sentiment Accuracy": 0.6191,
+            "Specificity": 0.5,
+            "Clarity": 0.12195121951219513
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Lack of assistance and respect",
+          "scores": {
+            "Relevance": 0.30778086781420844,
+            "Informativeness": 0.3335548076254719,
+            "Sentiment Accuracy": -0.04200000000000004,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.16129032258064516
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "Pompous manager hung up on me twice (!) when I called to ask about wait times.  Have never boycotted a restaurant until now.  Mediocre crepes don't entitle that sort of bush league behavior!",
+      "versions": {
+        "Version1": {
+          "text": "Frustrated customer seeks service, doesn't receive.",
+          "scores": {
+            "Relevance": 0.2500809369294318,
+            "Informativeness": 0.4472135954999577,
+            "Sentiment Accuracy": 0.04380000000000006,
+            "Specificity": 0.25,
+            "Clarity": 0.13725490196078433
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Patron's patience wearing thin due to rudeness.",
+          "scores": {
+            "Relevance": 0.4291897633899586,
+            "Informativeness": 0.4810466798098715,
+            "Sentiment Accuracy": 0.20930000000000004,
+            "Specificity": 0.125,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Unimpressed consumer faces inhospitable business.",
+          "scores": {
+            "Relevance": 0.34521313627692074,
+            "Informativeness": 0.40824829046386274,
+            "Sentiment Accuracy": 0.23049999999999993,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.1020408163265306
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "this place is an absolute joke. it's extremely overpriced ($12 for a solo ham and cheese crepe you have got to be kidding me), the menu is extremely limited, and the food is just plain not up to par. seriously--if you're going to try to make a place 'hip' or upscale and charge those kinds of prices, you've got to make the experience worth it. i honestly don't know what the people raving about this place are talking about when it comes to the most delicious food they've ever had. the crepe i had was waaaay too salty, and their bloody marys tasted like they were made of pickle juice. neither i nor the person i was dining with were impressed, and, needless to say, we won't be showing up again.",
+      "versions": {
+        "Version1": {
+          "text": "Overpriced, underwhelming food experience disappoints.",
+          "scores": {
+            "Relevance": 0.4471742841521943,
+            "Informativeness": 0.29055814791910706,
+            "Sentiment Accuracy": -0.28190000000000004,
+            "Specificity": 0.7142857142857143,
+            "Clarity": 0.09433962264150944
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Limited menu doesn't justify high prices.",
+          "scores": {
+            "Relevance": 0.47708356577706545,
+            "Informativeness": 0.3185246893630374,
+            "Sentiment Accuracy": -0.12640000000000007,
+            "Specificity": 0.7142857142857143,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Unimpressive dishes fail to impress.",
+          "scores": {
+            "Relevance": 0.25712857402323297,
+            "Informativeness": 0.283356366368784,
+            "Sentiment Accuracy": -0.3589,
+            "Specificity": 0.2,
+            "Clarity": 0.1388888888888889
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "This place is not there anymore.",
+      "versions": {
+        "Version1": {
+          "text": "Gone Without a Trace Remains",
+          "scores": {
+            "Relevance": 0.3319991910315164,
+            "Informativeness": 0.8164965809277259,
+            "Sentiment Accuracy": 1.0,
+            "Specificity": 0.0,
+            "Clarity": 0.1724137931034483
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Very Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Disappearing Acts Leave Empty Space",
+          "scores": {
+            "Relevance": 0.2875788843868292,
+            "Informativeness": 0.9128709291752768,
+            "Sentiment Accuracy": 0.75,
+            "Specificity": 0.0,
+            "Clarity": 0.1388888888888889
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Very Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Erased Landmarks Vanish into Air",
+          "scores": {
+            "Relevance": 0.34038005525342263,
+            "Informativeness": 0.9128709291752768,
+            "Sentiment Accuracy": 1.0,
+            "Specificity": 0.0,
+            "Clarity": 0.15151515151515152
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Very Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "My mom drove me all the way over there yesterday and it wasn't there.  We should have checked Yelp first.  I looked on their website and it looks like there aren't any in Arizona anymore. My mom was very disappointed.",
+      "versions": {
+        "Version1": {
+          "text": "Mom's disappointment over unserved needs",
+          "scores": {
+            "Relevance": 0.2377556394351763,
+            "Informativeness": 0.41159798506089357,
+            "Sentiment Accuracy": 0.7141,
+            "Specificity": 0.2,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Unmet expectations in Arizona discovery",
+          "scores": {
+            "Relevance": 0.2240846919799494,
+            "Informativeness": 0.41445181301549355,
+            "Sentiment Accuracy": 0.7753,
+            "Specificity": 0.25,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Disappointment and regret without research",
+          "scores": {
+            "Relevance": 0.007680840168186709,
+            "Informativeness": 0.4126221629091667,
+            "Sentiment Accuracy": 0.4978,
+            "Specificity": 0.0,
+            "Clarity": 0.11627906976744186
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.3869964117761509,
+    "Informativeness": 0.45972845247521005,
+    "Sentiment Accuracy": 0.53515,
+    "Specificity": 0.3273809523809524,
+    "Clarity": 0.15720465420131716
+  }
+}

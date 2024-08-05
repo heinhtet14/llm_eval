@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "This paddle sport supply store is stocked to the rafters with a staggering selection of everything you could possibly ever need to get your crazy paddle on.  Owners, Jeff and Darren, are friendly and quick to answer even silly newbie questions.",
+      "versions": {
+        "Version1": {
+          "text": "Paddle gear galore, friendly owners aid newbies",
+          "scores": {
+            "Relevance": 0.6816776086309639,
+            "Informativeness": 0.46103781237578306,
+            "Sentiment Accuracy": 0.7323999999999999,
+            "Specificity": 0.5,
+            "Clarity": 0.14893617021276595
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Stocked rafters, paddle experts assist beginners",
+          "scores": {
+            "Relevance": 0.7555740342031195,
+            "Informativeness": 0.426449131813762,
+            "Sentiment Accuracy": 0.7737,
+            "Specificity": 0.5714285714285714,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Highly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Endless paddle supplies, queries welcomed by owners",
+          "scores": {
+            "Relevance": 0.7828874281363368,
+            "Informativeness": 0.46146773691642456,
+            "Sentiment Accuracy": 0.8863,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.13725490196078433
+          },
+          "interpretations": {
+            "Relevance": "Highly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "This place is a veritable candy store for outdoor enthusiasts, especially kayak and canoers. Really friendly and knowledgeable people ready to help. They have a huge inventory of watercraft out back, so don't get fooled by the size of the building or showroom. The building backs up to a channel that makes it possible to test drive a kayak or canoe. One word of warning - you will want to buy something, anything, when you walk in.",
+      "versions": {
+        "Version1": {
+          "text": "Friendly store, vast kayaks, test drive available",
+          "scores": {
+            "Relevance": 0.7370253613078105,
+            "Informativeness": 0.3754460528220072,
+            "Sentiment Accuracy": 0.5832,
+            "Specificity": 0.5555555555555556,
+            "Clarity": 0.14583333333333334
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Kayak haven with helpful staff, tempting inventory",
+          "scores": {
+            "Relevance": 0.6233294374070293,
+            "Informativeness": 0.3746857342500417,
+            "Sentiment Accuracy": 0.5108,
+            "Specificity": 0.5,
+            "Clarity": 0.13999999999999999
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Outdoor enthusiast's dream, try before you buy",
+          "scores": {
+            "Relevance": 0.37517998606526826,
+            "Informativeness": 0.3741479024183474,
+            "Sentiment Accuracy": 0.33930000000000005,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.1702127659574468
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "I've done quite a bit of canoeing and kayaking - lakes, rivers, whitewater, but, never actually owned my own Kayak.  I live on the Sugar River and was looking for a nice boat that had a good balance of maneuverability, stability, tracking, and efficiency so I could use it on the river but, also take it on nice paddles on lakes.The staff were excellent about helping me and very patient as I tried numerous boats, over and over and over, at their test area located on the channel between Lake Monona and Upper Mud Lake on the Yahara.  In the end, I ended up picking the boat that TWO staff people first recommended right from the start.  They listened to my needs, helped me extensively, and made some really good recommendations for selection of a paddle and other accessories.I've since purchased the boat and have had MANY opportunities to paddle it - on flat water, rivers, and some small rapids.  The boat has been great for me.I will definitely come back - we are looking at another purchase for my wife.",
+      "versions": {
+        "Version1": {
+          "text": "Patient staff, perfect boat match. Great river/lake paddle.",
+          "scores": {
+            "Relevance": 0.5287821850660914,
+            "Informativeness": 0.38801649765653795,
+            "Sentiment Accuracy": 0.8398,
+            "Specificity": 0.6363636363636364,
+            "Clarity": 0.15789473684210528
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Tried multiple boats, found ideal choice. Ideal for rivers, lakes.",
+          "scores": {
+            "Relevance": 0.5944168858717273,
+            "Informativeness": 0.36176726620371097,
+            "Sentiment Accuracy": 0.7865,
+            "Specificity": 0.46153846153846156,
+            "Clarity": 0.15873015873015872
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Customized selection, loving my new kayak. River and lake compatible.",
+          "scores": {
+            "Relevance": 0.6358627947491599,
+            "Informativeness": 0.3892358981987503,
+            "Sentiment Accuracy": 0.6076,
+            "Specificity": 0.5454545454545454,
+            "Clarity": 0.14925373134328357
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Great place to rent kayaks for a little bit of exercise and sun...",
+      "versions": {
+        "Version1": {
+          "text": "Sunny, Active Rentals - Kayaks Await",
+          "scores": {
+            "Relevance": 0.7868683627570177,
+            "Informativeness": 0.6428454363673045,
+            "Sentiment Accuracy": 0.9153,
+            "Specificity": 0.14285714285714285,
+            "Clarity": 0.14705882352941177
+          },
+          "interpretations": {
+            "Relevance": "Highly Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Paddle, Soak Sun - Kayak Joy Ahead",
+          "scores": {
+            "Relevance": 0.6041435236718512,
+            "Informativeness": 0.7049804007486872,
+            "Sentiment Accuracy": 0.961,
+            "Specificity": 0.125,
+            "Clarity": 0.1875
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Kayaking, Outdoor Bliss - Healthy Fun",
+          "scores": {
+            "Relevance": 0.6894694926632885,
+            "Informativeness": 0.6454972243679027,
+            "Sentiment Accuracy": 0.7591,
+            "Specificity": 0.0,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Amazing selection of product, and very knowledgable staff. Location is great because you can paddle right from the back door.",
+      "versions": {
+        "Version1": {
+          "text": "Premium products, savvy staff, ideal paddle spot.",
+          "scores": {
+            "Relevance": 0.7719029382411476,
+            "Informativeness": 0.5880506359298505,
+            "Sentiment Accuracy": 0.6907,
+            "Specificity": 0.4,
+            "Clarity": 0.14893617021276595
+          },
+          "interpretations": {
+            "Relevance": "Highly Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Top-tier goods, learned guides, water access ease.",
+          "scores": {
+            "Relevance": 0.5158405436049448,
+            "Informativeness": 0.6324555320336758,
+            "Sentiment Accuracy": 0.5252000000000001,
+            "Specificity": 0.2,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Superior gear, skilled team, prime paddling locale.",
+          "scores": {
+            "Relevance": 0.5380603438390936,
+            "Informativeness": 0.5916079783099614,
+            "Sentiment Accuracy": 0.7063,
+            "Specificity": 0.2,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Somewhat Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "Stopped here on my way up north and picked up a paddleboard. Staff was super attentive and knowledgeable while helping me get correct board for my size. I will definitely go back.",
+      "versions": {
+        "Version1": {
+          "text": "Knowledgeable staff, perfect fit paddleboard",
+          "scores": {
+            "Relevance": 0.6588630462438694,
+            "Informativeness": 0.44447975110425064,
+            "Sentiment Accuracy": 0.9506,
+            "Specificity": 0.5,
+            "Clarity": 0.11363636363636363
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Superb service, ideal board for size",
+          "scores": {
+            "Relevance": 0.4947915056193508,
+            "Informativeness": 0.4870924960313769,
+            "Sentiment Accuracy": 0.9669,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Purchased paddleboard, outstanding staff care",
+          "scores": {
+            "Relevance": 0.6481936947755413,
+            "Informativeness": 0.4440541957362662,
+            "Sentiment Accuracy": 0.9824999999999999,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.1111111111111111
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.7289016552392237,
+    "Informativeness": 0.5084463527918203,
+    "Sentiment Accuracy": 0.8265166666666666,
+    "Specificity": 0.4677008177008177,
+    "Clarity": 0.16645207137228413
+  }
+}

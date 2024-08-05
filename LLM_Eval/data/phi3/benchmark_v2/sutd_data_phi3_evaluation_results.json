@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "versions": {
+        "Version1": {
+          "text": "Affordable, convenient; service and flavors shine.",
+          "scores": {
+            "Relevance": 0.32465352291205307,
+            "Informativeness": 0.35431260595111724,
+            "Sentiment Accuracy": 0.47550000000000003,
+            "Specificity": 0.25,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Great deals, food variety; breakfast disappoints.",
+          "scores": {
+            "Relevance": 0.6485553639256482,
+            "Informativeness": 0.35338725126309917,
+            "Sentiment Accuracy": 0.11430000000000007,
+            "Specificity": 0.5555555555555556,
+            "Clarity": 0.12765957446808512
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Excellent desserts, decent decor; slicing skills lacking.",
+          "scores": {
+            "Relevance": 0.4806251888063431,
+            "Informativeness": 0.383580352296754,
+            "Sentiment Accuracy": -0.09640000000000004,
+            "Specificity": 0.3,
+            "Clarity": 0.1272727272727273
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "versions": {
+        "Version1": {
+          "text": "Cold fries, old burger; pizza satisfactory.",
+          "scores": {
+            "Relevance": 0.6328347733673859,
+            "Informativeness": 0.3695309860625382,
+            "Sentiment Accuracy": 0.706,
+            "Specificity": 0.7777777777777778,
+            "Clarity": 0.14634146341463417
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Server indifferent, food quality inconsistent.",
+          "scores": {
+            "Relevance": 0.4486914830004922,
+            "Informativeness": 0.33647320720444057,
+            "Sentiment Accuracy": 0.14249999999999996,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.1111111111111111
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Recommend venue elsewhere for improved experience.",
+          "scores": {
+            "Relevance": 0.30527579245411995,
+            "Informativeness": 0.3679162937199775,
+            "Sentiment Accuracy": 0.9744,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.12000000000000002
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "This is a so-called restaurant that doesn't do anything a restaurant should do except preparing food, the rest is left to the guest. Do you want water? Get up and go across the yard to get it. If you want a drink, go downstairs and pay in cash. Want to sit in dirty deckchairs in a dirty garden, enjoy yourself. The waiters are a little bit helpful as they bring you your food after you go to the window and pay cash for it. Kind of like New Orleans Hamburger and Seafood, but dirty and with live music (which is nice). It's a once in a lifetime experience for me... just once.",
+      "versions": {
+        "Version1": {
+          "text": "Dirty garden, cash payments, self-service.",
+          "scores": {
+            "Relevance": 0.3944141471372853,
+            "Informativeness": 0.3475458869443742,
+            "Sentiment Accuracy": 0.9656,
+            "Specificity": 0.625,
+            "Clarity": 0.15
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Live music, dirty chairs; unique experience.",
+          "scores": {
+            "Relevance": 0.479729610929728,
+            "Informativeness": 0.3483176704575035,
+            "Sentiment Accuracy": 0.9656,
+            "Specificity": 0.6666666666666666,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Unique dining; grubby but enjoyable atmosphere.",
+          "scores": {
+            "Relevance": 0.5027528297535502,
+            "Informativeness": 0.35033390308542733,
+            "Sentiment Accuracy": -0.0674999999999999,
+            "Specificity": 0.14285714285714285,
+            "Clarity": 0.13043478260869565
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "My brother came to visit and we wanted to pick up a six pack of good beer for one night. We ended up staying and having a few while playing their Nintendo 64 (Super Smash Brothers which the owner said was donated by other customers). It's a great place with good food and really nice people. Should be a staple in the Northeast.",
+      "versions": {
+        "Version1": {
+          "text": "Nostalgic visit, good beer, and Super Smash Brothers.",
+          "scores": {
+            "Relevance": 0.6392365209804519,
+            "Informativeness": 0.40653534809259734,
+            "Sentiment Accuracy": 0.8484,
+            "Specificity": 0.7,
+            "Clarity": 0.1568627450980392
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Brother's visit enhances local pub experience.",
+          "scores": {
+            "Relevance": 0.48039648046744476,
+            "Informativeness": 0.35668330191017683,
+            "Sentiment Accuracy": 0.07010000000000005,
+            "Specificity": 0.5,
+            "Clarity": 0.14893617021276595
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Friendly people, delicious food, and great games await.",
+          "scores": {
+            "Relevance": 0.504154689486023,
+            "Informativeness": 0.40476371491793395,
+            "Sentiment Accuracy": 0.9782000000000001,
+            "Specificity": 0.4,
+            "Clarity": 0.1509433962264151
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "versions": {
+        "Version1": {
+          "text": "Creamy coconut soup, balanced Pat Thai.",
+          "scores": {
+            "Relevance": 0.6591721868647241,
+            "Informativeness": 0.37378997030419436,
+            "Sentiment Accuracy": 0.038900000000000046,
+            "Specificity": 0.875,
+            "Clarity": 0.15789473684210528
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Generous chicken in perfect noodles, creamy soup.",
+          "scores": {
+            "Relevance": 0.4464089716099622,
+            "Informativeness": 0.408355632560118,
+            "Sentiment Accuracy": 0.8295,
+            "Specificity": 1.0,
+            "Clarity": 0.14583333333333334
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Balanced flavors, generous ingredients delight.",
+          "scores": {
+            "Relevance": 0.4786481775841781,
+            "Informativeness": 0.3435366074193444,
+            "Sentiment Accuracy": 0.8409000000000001,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.10869565217391305
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "versions": {
+        "Version1": {
+          "text": "Near hotel, friendly staff, great wings.",
+          "scores": {
+            "Relevance": 0.42473360770851787,
+            "Informativeness": 0.37188955125832995,
+            "Sentiment Accuracy": 0.8373,
+            "Specificity": 0.4444444444444444,
+            "Clarity": 0.15789473684210528
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Pizza shop close by; offers & saucy wings.",
+          "scores": {
+            "Relevance": 0.6534320637231443,
+            "Informativeness": 0.4020529820950126,
+            "Sentiment Accuracy": 0.029900000000000038,
+            "Specificity": 0.4444444444444444,
+            "Clarity": 0.1794871794871795
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Great service; pizza, hot wings nearby.",
+          "scores": {
+            "Relevance": 0.6905115983928266,
+            "Informativeness": 0.37188955125833,
+            "Sentiment Accuracy": 0.6548,
+            "Specificity": 0.4444444444444444,
+            "Clarity": 0.16216216216216214
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.6288438788807645,
+    "Informativeness": 0.38673153403207455,
+    "Sentiment Accuracy": 0.8453166666666667,
+    "Specificity": 0.6907407407407408,
+    "Clarity": 0.15304094988500722
+  }
+}

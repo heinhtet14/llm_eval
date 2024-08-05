@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "Phenomenal locally owned store for outdoor enthusiasts. I like to buy local whenever I can and this store reminds me a lot of REI but with the added bonus of being locally owned. I've always received outstanding customer service and found the staff to go out of their way to find a solution for me. I just finished my holiday shopping here because they have a ton of little things that make great stocking stuffers for anyone like balms, solar lights for camping, doggy gear, kid stuff, etc. I often like to gauge a business by the happiness of its employees and when I talk with them about working at Rutabaga, they never hesitate to sing the praises of this very cool store. Looking forward to my next visit!",
+      "versions": {
+        "Version1": {
+          "text": "Local favorite shines with service.",
+          "scores": {
+            "Relevance": 0.4229788867789801,
+            "Informativeness": 0.28311356914390556,
+            "Sentiment Accuracy": 0.46499999999999997,
+            "Specificity": 0.6,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Outdoor haven with exceptional staff.",
+          "scores": {
+            "Relevance": 0.4130336516418609,
+            "Informativeness": 0.28311356914390556,
+            "Sentiment Accuracy": 0.006199999999999983,
+            "Specificity": 0.75,
+            "Clarity": 0.13513513513513511
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Unique spot for adventure seekers.",
+          "scores": {
+            "Relevance": 0.3721318923485578,
+            "Informativeness": 0.2820528324092443,
+            "Sentiment Accuracy": 0.3244,
+            "Specificity": 0.2,
+            "Clarity": 0.14705882352941177
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "this little place was great! fun day with great jet skis...the older couple is extremely nice and made for an affordable fun time at the lake. I would highly recommend giving these guys a chance! they have the trailer hitch if you need and include many sized life jackets.",
+      "versions": {
+        "Version1": {
+          "text": "Affordable Fun Lake Experience",
+          "scores": {
+            "Relevance": 0.5542901005216074,
+            "Informativeness": 0.3184109606812612,
+            "Sentiment Accuracy": 0.5344000000000001,
+            "Specificity": 0.75,
+            "Clarity": 0.12903225806451613
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Enjoyable Time with Nice Hosts",
+          "scores": {
+            "Relevance": 0.2862043462569934,
+            "Informativeness": 0.3577180239475439,
+            "Sentiment Accuracy": 0.7146,
+            "Specificity": 0.5,
+            "Clarity": 0.16129032258064516
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Relaxing Day on the Water",
+          "scores": {
+            "Relevance": 0.3887395488721246,
+            "Informativeness": 0.34975714265831237,
+            "Sentiment Accuracy": 0.5177,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.1923076923076923
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "The owners Chris and joe were extremely nice. They took my reservation without a credit card. I rented two decent wave runners for $125 each for the whole day. $300 deposit on each. Brought them back at 5.30 in the same condition I picks them up. TheY threw in the life jackets and a hitch and trailer for the skis. This really is the best deal in town and 33 minute drive to the lake. Awesome day on the lake",
+      "versions": {
+        "Version1": {
+          "text": "Friendly Owners, Great Deals Await",
+          "scores": {
+            "Relevance": 0.3866576314569541,
+            "Informativeness": 0.37940775772007473,
+            "Sentiment Accuracy": 0.9392999999999999,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.14705882352941177
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Affordable Fun on the Water Found",
+          "scores": {
+            "Relevance": 0.40263313096351105,
+            "Informativeness": 0.38410206312268375,
+            "Sentiment Accuracy": 0.6228,
+            "Specificity": 0.0,
+            "Clarity": 0.1764705882352941
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Relaxing Day by the Lake Guaranteed",
+          "scores": {
+            "Relevance": 0.30227461844563386,
+            "Informativeness": 0.3832225538479886,
+            "Sentiment Accuracy": 0.6061,
+            "Specificity": 0.5,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "Best of the best. Awesome prices. Great running skis. Super Duper friendly as can be. Very nice, down to earth people. Life jackets, trailer, anchor, ties...everything you need supplied. I'll definitely be back. Maybe rent one of their boats. I can't say enough good things about this company...",
+      "versions": {
+        "Version1": {
+          "text": "Top-notch Rentals with Exceptional Service",
+          "scores": {
+            "Relevance": 0.4860393996282054,
+            "Informativeness": 0.38188130791298724,
+            "Sentiment Accuracy": 0.018100000000000005,
+            "Specificity": 0.0,
+            "Clarity": 0.13953488372093023
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Excellent Equipment & Friendly Assistance Offered",
+          "scores": {
+            "Relevance": 0.4144099587715533,
+            "Informativeness": 0.3465775112692764,
+            "Sentiment Accuracy": 0.8026,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.10416666666666667
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Superior Experiences through Quality Rentals",
+          "scores": {
+            "Relevance": 0.509408252259693,
+            "Informativeness": 0.3486083443891987,
+            "Sentiment Accuracy": 0.5604,
+            "Specificity": 0.0,
+            "Clarity": 0.1111111111111111
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "Friend found this place for our yearly trip to Lake Mead.   We have rented from other local places and these guys are very nice and informal.  No long video to watch and we're not overly suspicious of us.  Skis were in good shape and ran well all weekend. They worked with us on return time.   Easy transaction.  I left $300 which I got back the same 3 hundred bills I left.   Chris and Joe are great and plan on using them on all our future trips.",
+      "versions": {
+        "Version1": {
+          "text": "Great Local Rental Experience Guaranteed",
+          "scores": {
+            "Relevance": 0.43911738334497175,
+            "Informativeness": 0.30780147038570926,
+            "Sentiment Accuracy": 0.6718000000000001,
+            "Specificity": 0.4,
+            "Clarity": 0.12195121951219513
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Friendly Rentals, Easy Transaction, Happy Customer",
+          "scores": {
+            "Relevance": 0.4137911894620301,
+            "Informativeness": 0.3376550555990987,
+            "Sentiment Accuracy": 0.9158000000000001,
+            "Specificity": 0.25,
+            "Clarity": 0.12244897959183672
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Informal, No-Fuss Ski Rental with Chris",
+          "scores": {
+            "Relevance": 0.5684945341056541,
+            "Informativeness": 0.3647318401668353,
+            "Sentiment Accuracy": 0.04690000000000005,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.1794871794871795
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "You're next long Holiday weekend....Instructions:- take your boat or hop on one- go to Lake Pleasant- Head to the cove- tie up next to the bajillion boats that are there- wear sunscreen- Have the friggin' time of your life!!!!Tips:- bring alcohol only in cans and plastic containers- you can't tie on to another boat unless you have a female in your boat.  ( sorry... all sausage boats not allowed)- extra alcohol and a pack of cigarettes or some nice cigars make your neighbors friendlier- don't even bother bringing your inner tube or wake board. this is all chillin' and boat hopping.....",
+      "versions": {
+        "Version1": {
+          "text": "Lake Pleasant boat party awaits you",
+          "scores": {
+            "Relevance": 0.5442725684737489,
+            "Informativeness": 0.3234852508573411,
+            "Sentiment Accuracy": 0.8104,
+            "Specificity": 0.4,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Relax on Lake Pleasant's tranquil waters",
+          "scores": {
+            "Relevance": 0.3938545027572409,
+            "Informativeness": 0.3281816284534761,
+            "Sentiment Accuracy": 0.5441,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Unwind at Lake Pleasant's cove retreat",
+          "scores": {
+            "Relevance": 0.3728408688873204,
+            "Informativeness": 0.32855040196359736,
+            "Sentiment Accuracy": 0.26970000000000005,
+            "Specificity": 0.16666666666666666,
+            "Clarity": 0.175
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.5003462455171991,
+    "Informativeness": 0.3500162010429255,
+    "Sentiment Accuracy": 0.7746166666666667,
+    "Specificity": 0.4944444444444444,
+    "Clarity": 0.16830986121341798
+  }
+}

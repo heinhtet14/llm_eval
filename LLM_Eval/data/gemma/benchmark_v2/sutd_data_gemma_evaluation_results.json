@@ -1,0 +1,353 @@
+{
+  "individual_reviews": [
+    {
+      "review_id": 1,
+      "review_text": "Straight to the point, it's cheap, it tastes and feels cheap. The good: price, location, dessert (recommended food items are: baked chicken, fried chicken, potatoes, Salad, meat and cheese, pizza) also our waitress was great. The normal: behind the counter meat slicing station, shrimp (not even deshelled), Mexican station. The bad: breakfast -worst eggs ever, actually worst, eggs. The chef can't even cut through ham or hard bread (tried on all 3 occasions), beef, shrimp again. As for decoration, it's the 1970 nightmare you can imagine.",
+      "versions": {
+        "Version1": {
+          "text": "Budget vibes and underwhelming food.",
+          "scores": {
+            "Relevance": 0.4800676047773904,
+            "Informativeness": 0.3219961889642412,
+            "Sentiment Accuracy": 0.47550000000000003,
+            "Specificity": 0.4,
+            "Clarity": 0.1388888888888889
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Low-cost experience with questionable cuisine.",
+          "scores": {
+            "Relevance": 0.6361515983750258,
+            "Informativeness": 0.3564531154716027,
+            "Sentiment Accuracy": 0.7715000000000001,
+            "Specificity": 0.2,
+            "Clarity": 0.13043478260869565
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Disappointing food quality despite cheap prices.",
+          "scores": {
+            "Relevance": 0.5796862483644865,
+            "Informativeness": 0.3532265162709458,
+            "Sentiment Accuracy": 0.9694,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.125
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Matches Perfectly",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 2,
+      "review_text": "We started with the burger set, a big mistake. It was cold and the fries were old. Mentioned to our waitress, but nothing came of it.  We ordered a large thin pizza which was a bit pricey after adding toppings. Pizza was ok, not great. Aside from not being our advocate, our server was good.  I have been here before for a football game, it was better then. Will try another venue next time.",
+      "versions": {
+        "Version1": {
+          "text": "Food Quality Issues",
+          "scores": {
+            "Relevance": 0.43351791017472774,
+            "Informativeness": 0.26207451188442205,
+            "Sentiment Accuracy": 0.3448,
+            "Specificity": 0.0,
+            "Clarity": 0.15
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Unsatisfactory Meal Experience",
+          "scores": {
+            "Relevance": 0.4879033784404827,
+            "Informativeness": 0.26207451188442205,
+            "Sentiment Accuracy": 0.3448,
+            "Specificity": 0.0,
+            "Clarity": 0.0967741935483871
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Cold Food and Old Fries",
+          "scores": {
+            "Relevance": 0.47490984416267434,
+            "Informativeness": 0.33718647979389393,
+            "Sentiment Accuracy": 0.3448,
+            "Specificity": 0.75,
+            "Clarity": 0.20833333333333334
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mismatches",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 3,
+      "review_text": "This is a so-called restaurant that doesn't do anything a restaurant should do except preparing food, the rest is left to the guest. Do you want water? Get up and go across the yard to get it. If you want a drink, go downstairs and pay in cash. Want to sit in dirty deckchairs in a dirty garden, enjoy yourself. The waiters are a little bit helpful as they bring you your food after you go to the window and pay cash for it. Kind of like New Orleans Hamburger and Seafood, but dirty and with live music (which is nice). It's a once in a lifetime experience for me... just once.",
+      "versions": {
+        "Version1": {
+          "text": "Unique dining experience",
+          "scores": {
+            "Relevance": 0.5627180995406462,
+            "Informativeness": 0.24652350892320116,
+            "Sentiment Accuracy": 0.5252,
+            "Specificity": 0.3333333333333333,
+            "Clarity": 0.12000000000000002
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Not Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "DIY dining concept",
+          "scores": {
+            "Relevance": 0.5490867341889344,
+            "Informativeness": 0.24888501808062133,
+            "Sentiment Accuracy": 0.5252,
+            "Specificity": 0.0,
+            "Clarity": 0.15789473684210528
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Not Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Sparsely furnished outdoor space",
+          "scores": {
+            "Relevance": 0.4179166948349028,
+            "Informativeness": 0.28738766437222324,
+            "Sentiment Accuracy": 0.5252,
+            "Specificity": 0.0,
+            "Clarity": 0.12121212121212122
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 4,
+      "review_text": "My brother came to visit and we wanted to pick up a six pack of good beer for one night. We ended up staying and having a few while playing their Nintendo 64 (Super Smash Brothers which the owner said was donated by other customers). It's a great place with good food and really nice people. Should be a staple in the Northeast.",
+      "versions": {
+        "Version1": {
+          "text": "Pleasant social gathering",
+          "scores": {
+            "Relevance": 0.24704223620802446,
+            "Informativeness": 0.2542372881355932,
+            "Sentiment Accuracy": 0.5807000000000001,
+            "Specificity": 0.0,
+            "Clarity": 0.11538461538461536
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Good food and company",
+          "scores": {
+            "Relevance": 0.3709017214208036,
+            "Informativeness": 0.284573316829062,
+            "Sentiment Accuracy": 0.5105000000000001,
+            "Specificity": 0.6666666666666666,
+            "Clarity": 0.18181818181818182
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Friendly atmosphere and games",
+          "scores": {
+            "Relevance": 0.370189081459509,
+            "Informativeness": 0.2863932743438045,
+            "Sentiment Accuracy": 0.5640000000000001,
+            "Specificity": 0.0,
+            "Clarity": 0.13333333333333333
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 5,
+      "review_text": "My menu is coconut soup and pat thai with protein. I tried the same menu here. Actually really like their coconut soup. They used enough coconut milk that the soup was really creamy and not overpowered with herbs. I'm so used to Americanized Thai cuisine that I prefer fewer herbs on my dish. Pat Thai was great too. I liked the amount of peanuts they used, the noodles were chewy and perfect and not too sweet. They gave me a generous amount of chicken and white meat was not dry so I was very happy with my meal.",
+      "versions": {
+        "Version1": {
+          "text": "Excellent coconut soup, balanced herbs.",
+          "scores": {
+            "Relevance": 0.5986545993835092,
+            "Informativeness": 0.3397435923463611,
+            "Sentiment Accuracy": 0.6108,
+            "Specificity": 0.7142857142857143,
+            "Clarity": 0.13157894736842105
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Creamy coconut soup, savory pat thai.",
+          "scores": {
+            "Relevance": 0.6403235073686606,
+            "Informativeness": 0.37378997030419436,
+            "Sentiment Accuracy": 0.038900000000000046,
+            "Specificity": 0.875,
+            "Clarity": 0.16666666666666666
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Completely Opposite",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Perfect coconut soup, chewy noodles.",
+          "scores": {
+            "Relevance": 0.5842739470743153,
+            "Informativeness": 0.3462287627552233,
+            "Sentiment Accuracy": 0.6108,
+            "Specificity": 1.0,
+            "Clarity": 0.14285714285714285
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too Specific",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    },
+    {
+      "review_id": 6,
+      "review_text": "I stopped here because it was close to the hotel I was staying at. The people working in the store were super nice and friendly. I like the buy one get one offer they do. I also ordered some hot wings and they were pretty good. They had a ton of sauce which is awesome. Next time I come back to town I will definitely stop here for more pizza!",
+      "versions": {
+        "Version1": {
+          "text": "Friendly staff, liked BOGO offer.",
+          "scores": {
+            "Relevance": 0.22671212385623285,
+            "Informativeness": 0.3393050491361702,
+            "Sentiment Accuracy": 0.7483000000000001,
+            "Specificity": 0.42857142857142855,
+            "Clarity": 0.15625
+          },
+          "interpretations": {
+            "Relevance": "Not Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Moderately General",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version2": {
+          "text": "Enjoyed pizza and wings, lots of sauce.",
+          "scores": {
+            "Relevance": 0.5439382794583176,
+            "Informativeness": 0.4021155096733752,
+            "Sentiment Accuracy": 0.5405000000000001,
+            "Specificity": 0.5714285714285714,
+            "Clarity": 0.18421052631578946
+          },
+          "interpretations": {
+            "Relevance": "Moderately Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Neutral",
+            "Specificity": "Appropriately Specific",
+            "Clarity": "Very Unclear"
+          }
+        },
+        "Version3": {
+          "text": "Excellent customer service, tasty food.",
+          "scores": {
+            "Relevance": 0.44948832532076266,
+            "Informativeness": 0.34228347068012366,
+            "Sentiment Accuracy": 0.6018,
+            "Specificity": 0.14285714285714285,
+            "Clarity": 0.13157894736842105
+          },
+          "interpretations": {
+            "Relevance": "Slightly Relevant",
+            "Informativeness": "Minimally Informative",
+            "Sentiment Accuracy": "Mostly Matches",
+            "Specificity": "Too General",
+            "Clarity": "Very Unclear"
+          }
+        }
+      }
+    }
+  ],
+  "average_highest_scores": {
+    "Relevance": 0.5403227641006562,
+    "Informativeness": 0.340554335659849,
+    "Sentiment Accuracy": 0.6298666666666667,
+    "Specificity": 0.625,
+    "Clarity": 0.17296872231082758
+  }
+}
